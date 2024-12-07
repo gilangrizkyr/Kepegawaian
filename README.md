@@ -58,3 +58,19 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+
+# INFORMASI!!!!!!
+
+## Penting untuk Dipahami:
+
+Aplikasi ini disediakan untuk digunakan secara pribadi, pendidikan, atau keperluan non-komersial lainnya. Kami ingin menegaskan bahwa aplikasi ini tidak dapat digunakan untuk tujuan jual beli dalam bentuk apapun. Penggunaan aplikasi ini untuk memperoleh keuntungan finansial atau untuk diperdagangkan dalam bentuk apapun, baik itu sebagai produk maupun layanan yang dipasarkan kepada pihak ketiga, adalah pelanggaran terhadap ketentuan penggunaan.
+
+Dengan menggunakan aplikasi ini, Anda menyetujui bahwa semua data dan informasi yang ada dalam aplikasi ini telah disediakan untuk tujuan demonstrasi atau percakapan umum. Semua konten yang ada dalam aplikasi ini bukanlah data asli atau data yang dipersiapkan untuk penggunaan komersial. Semua fitur atau fungsi yang ada pada aplikasi ini disediakan hanya untuk tujuan demonstrasi atau uji coba.
+
+Adapun segala bentuk distribusi atau penjualan aplikasi ini, baik secara langsung ataupun melalui perantara, akan dianggap sebagai pelanggaran terhadap hak cipta dan perjanjian lisensi. Kami menghimbau agar Anda tidak terlibat dalam tindakan yang dapat merugikan pihak penyedia aplikasi atau merusak tujuan dan kredibilitas dari aplikasi ini.
+
+Penting untuk dicatat bahwa aplikasi ini dilindungi oleh hak cipta dan hak kekayaan intelektual lainnya, yang memberikan hak eksklusif kepada pengembang. Oleh karena itu, segala bentuk komersialisasi yang dilakukan dengan aplikasi ini tanpa izin yang sah akan berakibat pada tindakan hukum yang dapat menimbulkan kerugian bagi pihak yang melanggar.
+
+Dengan memahami hal ini, kami berharap Anda dapat mematuhi pedoman yang telah ditetapkan dan tidak menggunakan aplikasi ini untuk tujuan yang bertentangan dengan ketentuan yang berlaku.
+
+Terima kasih atas perhatian dan kerjasama Anda!
