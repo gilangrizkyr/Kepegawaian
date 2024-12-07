@@ -1,0 +1,2179 @@
+INFO - 2024-10-20 06:50:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 06:58:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 06:59:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:01:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:06:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:06:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:07:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:07:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:07:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:07:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:07:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:07:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:07:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:08:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:08:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:08:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:13:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:13:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:13:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-20 07:13:52 --> ErrorException: Undefined array key "data"
+[Method: POST, Route: login]
+in APPPATH\Controllers\Auth.php on line 45.
+ 1 APPPATH\Controllers\Auth.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "data"', 'C:\\laragon\\www\\HRProgress\\app\\Controllers\\Auth.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-20 07:15:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:15:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-20 07:15:35 --> ErrorException: Undefined array key "data"
+[Method: POST, Route: login]
+in APPPATH\Controllers\Auth.php on line 45.
+ 1 APPPATH\Controllers\Auth.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "data"', 'C:\\laragon\\www\\HRProgress\\app\\Controllers\\Auth.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-20 07:15:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-20 07:15:40 --> ErrorException: Undefined array key "data"
+[Method: POST, Route: login]
+in APPPATH\Controllers\Auth.php on line 45.
+ 1 APPPATH\Controllers\Auth.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "data"', 'C:\\laragon\\www\\HRProgress\\app\\Controllers\\Auth.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-20 07:19:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:19:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:19:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-20 07:19:43 --> ErrorException: Undefined array key "data"
+[Method: POST, Route: login]
+in APPPATH\Controllers\Auth.php on line 44.
+ 1 APPPATH\Controllers\Auth.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "data"', 'C:\\laragon\\www\\HRProgress\\app\\Controllers\\Auth.php', 44)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-20 07:21:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:21:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:21:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:21:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:23:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-20 07:23:12 --> Login failed: Login berhasil
+INFO - 2024-10-20 07:23:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:23:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:26:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:26:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-20 07:26:13 --> Login failed: Login berhasil
+INFO - 2024-10-20 07:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:26:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-20 07:26:41 --> Login failed: Login berhasil
+INFO - 2024-10-20 07:26:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:26:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:27:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-20 07:27:44 --> ErrorException: Undefined array key "data"
+[Method: POST, Route: login]
+in APPPATH\Controllers\Auth.php on line 45.
+ 1 APPPATH\Controllers\Auth.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "data"', 'C:\\laragon\\www\\HRProgress\\app\\Controllers\\Auth.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-20 07:28:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-20 07:28:20 --> ErrorException: Undefined array key "data"
+[Method: POST, Route: login]
+in APPPATH\Controllers\Auth.php on line 45.
+ 1 APPPATH\Controllers\Auth.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "data"', 'C:\\laragon\\www\\HRProgress\\app\\Controllers\\Auth.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-20 07:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-20 07:29:00 --> ErrorException: Undefined array key "id"
+[Method: POST, Route: login]
+in APPPATH\Controllers\Auth.php on line 45.
+ 1 APPPATH\Controllers\Auth.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\laragon\\www\\HRProgress\\app\\Controllers\\Auth.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-20 07:29:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-20 07:29:31 --> ErrorException: Undefined array key "data"
+[Method: POST, Route: login]
+in APPPATH\Controllers\Auth.php on line 45.
+ 1 APPPATH\Controllers\Auth.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "data"', 'C:\\laragon\\www\\HRProgress\\app\\Controllers\\Auth.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-20 07:31:54 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => admin
+)
+
+INFO - 2024-10-20 07:31:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:31:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:32:04 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => admin
+)
+
+INFO - 2024-10-20 07:32:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:32:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:32:12 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => admin
+)
+
+INFO - 2024-10-20 07:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:33:08 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => admin
+)
+
+INFO - 2024-10-20 07:33:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:33:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:33:16 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => admin
+)
+
+INFO - 2024-10-20 07:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:35:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:35:23 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => admin
+)
+
+INFO - 2024-10-20 07:35:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:35:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:36:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:36:12 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => admin
+)
+
+ERROR - 2024-10-20 07:36:12 --> Login failed: Login berhasil
+INFO - 2024-10-20 07:36:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:36:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:37:05 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => user
+)
+
+ERROR - 2024-10-20 07:37:05 --> Login failed: Login berhasil
+INFO - 2024-10-20 07:37:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:37:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:38:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:38:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:39:15 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => admin
+)
+
+ERROR - 2024-10-20 07:39:15 --> Login failed: Login berhasil
+INFO - 2024-10-20 07:39:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:39:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:40:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:40:07 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => admin
+)
+
+ERROR - 2024-10-20 07:40:07 --> Login failed: Login berhasil
+INFO - 2024-10-20 07:40:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:40:43 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => admin
+)
+
+ERROR - 2024-10-20 07:40:43 --> Login failed: Login berhasil
+INFO - 2024-10-20 07:40:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:40:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:58:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:58:39 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => admin
+)
+
+ERROR - 2024-10-20 07:58:39 --> Login failed: Login berhasil
+INFO - 2024-10-20 07:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 07:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:12:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:13:18 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => admin
+)
+
+ERROR - 2024-10-20 08:13:18 --> Login failed: Login berhasil
+INFO - 2024-10-20 08:13:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:13:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:13:28 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => admin
+)
+
+ERROR - 2024-10-20 08:13:28 --> Login failed: Login berhasil
+INFO - 2024-10-20 08:13:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:13:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:23:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:23:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:23:58 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => admin
+)
+
+ERROR - 2024-10-20 08:23:58 --> Login failed: Login berhasil
+INFO - 2024-10-20 08:23:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:23:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:25:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:25:11 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 08:25:11 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => admin
+)
+
+ERROR - 2024-10-20 08:25:11 --> Login failed: Login berhasil
+INFO - 2024-10-20 08:25:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:25:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:25:23 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 08:25:23 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => admin
+)
+
+ERROR - 2024-10-20 08:25:23 --> Login failed: Login berhasil
+INFO - 2024-10-20 08:25:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:25:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:29:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:30:06 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 08:30:06 --> Request sent to API: {"nip":"12345","name":"John Doe"}
+INFO - 2024-10-20 08:30:06 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [role] => admin
+)
+
+ERROR - 2024-10-20 08:30:06 --> Login failed: Login berhasil
+INFO - 2024-10-20 08:30:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:30:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:39:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:39:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:39:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:39:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:39:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:39:54 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 08:39:54 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 1
+            [name] => John Doe
+            [role] => admin
+        )
+
+)
+
+INFO - 2024-10-20 08:39:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:39:54 --> User logged in: 12345
+INFO - 2024-10-20 08:39:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:40:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:40:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:40:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:44:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:44:26 --> Attempting to login with NIP: 67890 and Name: Jane Smith
+INFO - 2024-10-20 08:44:26 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 2
+            [name] => Jane Smith
+            [role] => user
+        )
+
+)
+
+INFO - 2024-10-20 08:44:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:44:26 --> User logged in: 67890
+INFO - 2024-10-20 08:44:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:44:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 08:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:02:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:08:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:08:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:08:16 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 09:08:16 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 1
+            [name] => John Doe
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IkpvaG4gRG9lIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDE1Mjk2LCJleHAiOjE3Mjk0MTg4OTZ9.EqarlxDMuRGahtqrvXSoLLWZy-8lispD07P2Y3ZZ_uA
+        )
+
+)
+
+INFO - 2024-10-20 09:08:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:08:16 --> User logged in: 12345
+INFO - 2024-10-20 09:08:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:08:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:08:37 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 09:08:37 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 1
+            [name] => John Doe
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IkpvaG4gRG9lIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDE1MzE3LCJleHAiOjE3Mjk0MTg5MTd9.uzbJ64X5ZUwdARLPaoRgESDy5-2891gb5B1aW6HtewE
+        )
+
+)
+
+INFO - 2024-10-20 09:08:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:08:37 --> User logged in: 12345
+INFO - 2024-10-20 09:08:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:09:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:09:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:09:14 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 09:09:14 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 1
+            [name] => John Doe
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IkpvaG4gRG9lIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDE1MzU0LCJleHAiOjE3Mjk0MTg5NTR9.r2HZE__6KBzx_E6WIVadgwEraoCAfbtnzW2duVS732U
+        )
+
+)
+
+INFO - 2024-10-20 09:09:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:09:14 --> User logged in: 12345
+INFO - 2024-10-20 09:09:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:09:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:11:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:11:49 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 09:11:49 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 1
+            [name] => John Doe
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IkpvaG4gRG9lIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDE1NTA5LCJleHAiOjE3Mjk0MTkxMDl9._Zh2Ti7iEauIOKN7a2Lcj5rMXcQgHHdmj8OuOdRfrck
+        )
+
+)
+
+INFO - 2024-10-20 09:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:11:50 --> User logged in: 12345
+INFO - 2024-10-20 09:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:18:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:18:04 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 09:18:04 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 1
+            [name] => John Doe
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IkpvaG4gRG9lIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDE1ODg0LCJleHAiOjE3Mjk0MTk0ODR9.j3ofBDVLjd6ZPy8bBslJuCvzqNP6Kz23rrVghSQOOCw
+        )
+
+)
+
+INFO - 2024-10-20 09:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:18:04 --> User logged in: 12345
+INFO - 2024-10-20 09:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:18:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:18:12 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:18:13 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:18:36 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:18:36 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:18:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:18:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:18:44 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:18:44 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:20:18 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:20:18 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:20:21 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:20:21 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:20:25 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:20:25 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:20:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:21:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:21:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:21:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:21:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:21:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:21:19 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:21:19 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:21:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:21:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:21:36 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:21:36 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:21:40 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:21:40 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:21:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:21:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:21:50 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:21:50 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:22:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:22:27 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:22:27 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:22:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:22:38 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:22:38 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:22:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:22:45 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:22:45 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:22:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:22:56 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:22:56 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:23:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:23:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:23:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:23:08 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 09:23:08 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 1
+            [name] => John Doe
+            [role] => admin
+        )
+
+)
+
+INFO - 2024-10-20 09:23:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:23:08 --> User logged in: 12345
+INFO - 2024-10-20 09:23:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:23:19 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 09:23:19 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 1
+            [name] => John Doe
+            [role] => admin
+        )
+
+)
+
+INFO - 2024-10-20 09:23:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:23:19 --> User logged in: 12345
+INFO - 2024-10-20 09:23:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:23:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:23:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:23:39 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 09:23:39 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 1
+            [name] => John Doe
+            [role] => admin
+        )
+
+)
+
+INFO - 2024-10-20 09:23:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:23:39 --> User logged in: 12345
+INFO - 2024-10-20 09:23:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:23:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:26:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:26:14 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 09:26:14 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 1
+            [name] => John Doe
+            [role] => admin
+        )
+
+)
+
+INFO - 2024-10-20 09:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:26:14 --> User logged in: 12345
+INFO - 2024-10-20 09:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:34:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:34:21 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:34:21 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:34:26 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:34:26 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:34:29 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:34:29 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:34:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:34:34 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:34:34 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:34:44 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:34:44 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:34:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:34:49 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:34:49 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:34:57 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:34:57 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:35:06 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:35:06 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:35:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:35:15 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:35:15 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:36:10 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:36:10 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:36:13 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 09:36:13 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 09:36:23 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 09:36:23 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 1
+            [name] => John Doe
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IkpvaG4gRG9lIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDE2OTgzLCJleHAiOjE3Mjk0MjA1ODN9.lpNEPPGFRNjZQ8_g0FF_iQNzME-kKFGni4HDQ-Ldz7U
+        )
+
+)
+
+INFO - 2024-10-20 09:36:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:36:23 --> User logged in: 12345
+INFO - 2024-10-20 09:36:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:38:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:39:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:39:29 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 09:39:29 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 1
+            [name] => John Doe
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IkpvaG4gRG9lIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDE3MTY5LCJleHAiOjE3Mjk0MjA3Njl9.IZtjis5gECH0yuBcJJHICDf0i7l5sjSl19qb5pwG20s
+        )
+
+)
+
+INFO - 2024-10-20 09:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:39:29 --> User logged in: 12345
+INFO - 2024-10-20 09:39:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:41:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:42:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:43:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:43:28 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 09:43:28 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 1
+            [name] => John Doe
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IkpvaG4gRG9lIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDE3NDA4LCJleHAiOjE3Mjk0MjEwMDh9.cN4t0dtcp61LO1DKCZD_ZaFHDZEraY3nQSpsa0pxuWQ
+        )
+
+)
+
+INFO - 2024-10-20 09:43:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:43:28 --> User logged in: 12345
+INFO - 2024-10-20 09:43:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:44:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:55:47 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 09:55:47 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 1
+            [name] => John Doe
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IkpvaG4gRG9lIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDE4MTQ3LCJleHAiOjE3Mjk0MjE3NDd9.WGDP5f-DjkncMM7rvOJmaNEdHj7U1SPq1oPeagtyGSM
+        )
+
+)
+
+INFO - 2024-10-20 09:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:55:47 --> User logged in: 12345
+INFO - 2024-10-20 09:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:59:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 09:59:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:00:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:01:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:01:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:02:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:02:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:02:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:03:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:09:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:09:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:09:57 --> Attempting to login with NIP:  and Name: 
+CRITICAL - 2024-10-20 10:09:57 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 401
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 10:12:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:12:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:12:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:12:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:12:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:12:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:12:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:12:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:12:27 --> Attempting to login with NIP:  and Name: 
+CRITICAL - 2024-10-20 10:12:27 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 401
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 10:12:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:12:59 --> Attempting to login with NIP:  and Name: 
+CRITICAL - 2024-10-20 10:12:59 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 401
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 10:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:14:11 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 10:14:11 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 1
+            [name] => John Doe
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IkpvaG4gRG9lIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDE5MjUxLCJleHAiOjE3Mjk0MjI4NTF9.TxkeYaF3i5adZyptzzd4Jin6a4SY1BjfuaIQo7ZRJxk
+        )
+
+)
+
+INFO - 2024-10-20 10:14:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:14:11 --> User logged in: 12345
+INFO - 2024-10-20 10:14:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:14:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:14:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:15:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:17:28 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 10:17:28 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 10:18:37 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 10:18:37 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 1
+            [name] => John Doe
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IkpvaG4gRG9lIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDE5NTE3LCJleHAiOjE3Mjk0MjMxMTd9.xJl-Q9I9szKHue7PcFsUrHvVzEJPHDCkixHvWli8img
+        )
+
+)
+
+INFO - 2024-10-20 10:18:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:18:37 --> User logged in: 12345
+INFO - 2024-10-20 10:18:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:18:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:19:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 10:19:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 12:30:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 12:31:04 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 12:31:05 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 12:31:31 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 12:31:31 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 12:31:34 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 12:31:34 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 12:31:37 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 12:31:37 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 12:31:40 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 12:31:40 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 12:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 12:32:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 12:32:17 --> Attempting to login with NIP: 12345 and Name: John Doe
+CRITICAL - 2024-10-20 12:32:18 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 12:32:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 12:32:27 --> Attempting to login with NIP: 12345 and Name: John Doe
+INFO - 2024-10-20 12:32:27 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 1
+            [name] => John Doe
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6IkpvaG4gRG9lIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDI3NTQ3LCJleHAiOjE3Mjk0MzExNDd9.0-G1v1UFokrFqL-lVz-s2luS11nhP8bG_EhrO7vvOhA
+        )
+
+)
+
+INFO - 2024-10-20 12:32:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 12:32:27 --> User logged in: 12345
+INFO - 2024-10-20 12:32:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:01:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:01:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:01:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:02:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:02:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:02:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:02:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:04:23 --> Attempting to login with NIP: NIP1111 and Name: GILANG RIZKY RAMADHAN 
+INFO - 2024-10-20 13:04:23 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 4
+            [name] => Gilang Rizky Ramadhan
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6IkdpbGFuZyBSaXpreSBSYW1hZGhhbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcyOTQyOTQ2MywiZXhwIjoxNzI5NDMzMDYzfQ.ysgvpp2rlTG7fLddw8WTUSY0p7WPMKkBDdOupkBaY0o
+        )
+
+)
+
+INFO - 2024-10-20 13:04:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:04:23 --> User logged in: NIP1111
+INFO - 2024-10-20 13:04:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:04:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:04:34 --> Attempting to login with NIP: NIP11111 and Name: GILANG RIZKY RAMADHAN 
+CRITICAL - 2024-10-20 13:04:34 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 401
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-20 13:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:04:44 --> Attempting to login with NIP: NIP11111 and Name: GILANG RIZKY RAMADHAN 
+CRITICAL - 2024-10-20 13:04:44 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 401
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-20 13:04:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:04:53 --> Attempting to login with NIP: NIP1111 and Name: GILANG RIZKY RAMADHAN 
+CRITICAL - 2024-10-20 13:04:53 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-20 13:04:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:04:57 --> Attempting to login with NIP: NIP1111 and Name: GILANG RIZKY RAMADHAN 
+CRITICAL - 2024-10-20 13:04:57 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-20 13:05:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:05:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:05:24 --> Attempting to login with NIP: NIP11111 and Name: GILANG RIZKY RAMADHAN 
+CRITICAL - 2024-10-20 13:05:24 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 401
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-20 13:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:05:31 --> Attempting to login with NIP: NIP1111 and Name: GILANG RIZKY RAMADHAN 
+INFO - 2024-10-20 13:05:31 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 4
+            [name] => Gilang Rizky Ramadhan
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6IkdpbGFuZyBSaXpreSBSYW1hZGhhbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcyOTQyOTUzMSwiZXhwIjoxNzI5NDMzMTMxfQ.DuvOJ3rKN1xvZsGDhMGjhSBZdjQitHO0Ja_QsDcjetg
+        )
+
+)
+
+INFO - 2024-10-20 13:05:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:05:31 --> User logged in: NIP1111
+INFO - 2024-10-20 13:05:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:05:55 --> Attempting to login with NIP: NIP1111 and Name: GILANG RIZKY RAMADHAN 
+CRITICAL - 2024-10-20 13:05:55 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-20 13:05:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:06:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:06:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:06:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:06:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:06:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:06:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:07:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:09:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:09:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:09:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:09:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:09:28 --> Attempting to login with NIP: NIP1111 and Name: GILANG RIZKY RAMADHAN 
+INFO - 2024-10-20 13:09:29 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 4
+            [name] => Gilang Rizky Ramadhan
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6IkdpbGFuZyBSaXpreSBSYW1hZGhhbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcyOTQyOTc2OSwiZXhwIjoxNzI5NDMzMzY5fQ.uS1JLmO2Kf_IFzDLRnA_JNJX9mfTeuMnf3XTFfp3maQ
+        )
+
+)
+
+INFO - 2024-10-20 13:09:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:09:29 --> User logged in: NIP1111
+INFO - 2024-10-20 13:09:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:11:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:11:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:19:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:20:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:20:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:20:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:20:43 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+INFO - 2024-10-20 13:20:43 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 4
+            [name] => Gilang Rizky Ramadhan
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6IkdpbGFuZyBSaXpreSBSYW1hZGhhbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcyOTQzMDQ0MywiZXhwIjoxNzI5NDM0MDQzfQ.OuL6f9wREMAC7zVB5bH1zo1wTqsjWtXfJlZb2Hyst6M
+        )
+
+)
+
+INFO - 2024-10-20 13:20:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:20:43 --> User logged in: NIP1111
+INFO - 2024-10-20 13:20:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:21:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:21:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:30:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:33:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:33:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-20 13:33:22 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 401
+[Method: POST, Route: auth/logout]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/logout')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/logout', [...])
+ 5 APPPATH\Controllers\Auth.php(157): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/logout', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->logout()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 13:37:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:37:34 --> Attempting to login with NIP: 12345 and Name: Gilang Rizky Ramadhan
+CRITICAL - 2024-10-20 13:37:34 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 401
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 13:38:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:38:36 --> Attempting to login with NIP: 12345 and Name: Gilang Rizky Ramadhan
+CRITICAL - 2024-10-20 13:38:36 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 401
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 13:38:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:38:43 --> Attempting to login with NIP: 12345 and Name: Gilang Rizky Ramadhan
+CRITICAL - 2024-10-20 13:38:43 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 401
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 13:38:56 --> Attempting to login with NIP: 12345 and Name: Gilang Rizky Ramadhan
+CRITICAL - 2024-10-20 13:38:56 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 401
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 13:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:40:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:40:31 --> Attempting to login with NIP: 12345 and Name: Gilang Rizky Ramadhan
+CRITICAL - 2024-10-20 13:40:32 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 401
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 13:42:48 --> Attempting to login with NIP: 12345 and Name: Gilang Rizky Ramadhan
+CRITICAL - 2024-10-20 13:42:48 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 401
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 13:42:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:42:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:43:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:43:45 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+INFO - 2024-10-20 13:43:45 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 4
+            [name] => Gilang Rizky Ramadhan
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6IkdpbGFuZyBSaXpreSBSYW1hZGhhbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcyOTQzMTgyNSwiZXhwIjoxNzI5NDM1NDI1fQ.XT_6ttR2eTx3d8mmT77z_MvOWaMqIwIo1SOj9y1R3LY
+        )
+
+)
+
+INFO - 2024-10-20 13:43:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:43:45 --> Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6IkdpbGFuZyBSaXpreSBSYW1hZGhhbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcyOTQzMTgyNSwiZXhwIjoxNzI5NDM1NDI1fQ.XT_6ttR2eTx3d8mmT77z_MvOWaMqIwIo1SOj9y1R3LY
+INFO - 2024-10-20 13:43:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:43:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:43:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:44:02 --> Attempting to login with NIP: 12345 and Name: Gilang Rizky Ramadhan
+CRITICAL - 2024-10-20 13:44:02 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 401
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 13:44:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:44:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:44:44 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+INFO - 2024-10-20 13:44:44 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 4
+            [name] => Gilang Rizky Ramadhan
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6IkdpbGFuZyBSaXpreSBSYW1hZGhhbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcyOTQzMTg4NCwiZXhwIjoxNzI5NDM1NDg0fQ.I71BurZqV5lWqjMWAaP2NOOnMKyDQmF4aBxTiH3ls_I
+        )
+
+)
+
+INFO - 2024-10-20 13:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:44:44 --> User logged in: NIP1111
+INFO - 2024-10-20 13:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:44:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:44:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:46:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:46:56 --> Attempting to login with NIP: asasa and Name: asas
+CRITICAL - 2024-10-20 13:46:56 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 401
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 13:47:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:49:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:49:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:49:45 --> Attempting to login with NIP: ghjg and Name: rwtr
+CRITICAL - 2024-10-20 13:49:45 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 401
+[Method: POST, Route: login]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/login', [...])
+ 5 APPPATH\Controllers\Auth.php(35): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 13:51:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:51:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:51:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:51:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:51:18 --> Attempting to login with NIP: asasasas and Name: asasasas
+ERROR - 2024-10-20 13:51:18 --> HTTP error: 22 : The requested URL returned error: 401
+INFO - 2024-10-20 13:51:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:51:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:51:43 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+INFO - 2024-10-20 13:51:43 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 4
+            [name] => Gilang Rizky Ramadhan
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6IkdpbGFuZyBSaXpreSBSYW1hZGhhbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcyOTQzMjMwMywiZXhwIjoxNzI5NDM1OTAzfQ.cQKvcsw0Guy_JXVxoANYOwuDWgoe7HjyhmZjwyFCA-g
+        )
+
+)
+
+INFO - 2024-10-20 13:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:51:43 --> User logged in: NIP1111
+INFO - 2024-10-20 13:51:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:51:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-20 13:51:57 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ass)ets"
+[Method: GET, Route: ass%29ets/master/vendors/images/ptptk1.png]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ass)ets/master/vendors/images/ptptk1.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ass)ets/master/vendors/images/ptptk1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 13:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:52:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:52:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:52:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:53:07 --> Attempting to login with NIP: NIP1111 and Name: GILANG RIZKY RAMADHAN
+ERROR - 2024-10-20 13:53:07 --> HTTP error: 22 : The requested URL returned error: 403
+INFO - 2024-10-20 13:53:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:53:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:53:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:53:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:53:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:53:34 --> Attempting to login with NIP: NIP1111 and Name: GILANG RIZKY RAMADHAN
+INFO - 2024-10-20 13:53:34 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 4
+            [name] => Gilang Rizky Ramadhan
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6IkdpbGFuZyBSaXpreSBSYW1hZGhhbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcyOTQzMjQxNCwiZXhwIjoxNzI5NDM2MDE0fQ.dAPhZ5vBY-cysvoHC_2naiEedsC_Dlek-ZpS4LG8VzE
+        )
+
+)
+
+INFO - 2024-10-20 13:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:53:34 --> User logged in: NIP1111
+INFO - 2024-10-20 13:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:53:49 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+ERROR - 2024-10-20 13:53:49 --> HTTP error: 22 : The requested URL returned error: 403
+INFO - 2024-10-20 13:53:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:53:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:58:40 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+INFO - 2024-10-20 13:58:40 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 4
+            [name] => Gilang Rizky Ramadhan
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6IkdpbGFuZyBSaXpreSBSYW1hZGhhbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcyOTQzMjcyMCwiZXhwIjoxNzI5NDM2MzIwfQ.Du9hJALeg_aKfwhWmPVtAF7fOzGeQ3UYf94mYrYSrCo
+        )
+
+)
+
+INFO - 2024-10-20 13:58:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:58:40 --> User logged in: NIP1111
+INFO - 2024-10-20 13:58:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:58:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 13:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:02:53 --> Attempting to login with NIP: NIP1111 and Name: GILANG RIZKY RAMADHAN
+ERROR - 2024-10-20 14:02:55 --> HTTP error: 7 : Failed to connect to localhost port 3000 after 2242 ms: Couldn't connect to server
+INFO - 2024-10-20 14:02:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:02:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:03:02 --> Attempting to login with NIP: NIP1111 and Name: GILANG RIZKY RAMADHAN
+ERROR - 2024-10-20 14:03:05 --> HTTP error: 7 : Failed to connect to localhost port 3000 after 2225 ms: Couldn't connect to server
+INFO - 2024-10-20 14:03:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:03:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:03:22 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+ERROR - 2024-10-20 14:03:24 --> HTTP error: 7 : Failed to connect to localhost port 3000 after 2221 ms: Couldn't connect to server
+INFO - 2024-10-20 14:03:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:03:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:03:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:03:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:03:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:04:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:04:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:04:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:04:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:04:13 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+INFO - 2024-10-20 14:04:13 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 4
+            [name] => Gilang Rizky Ramadhan
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6IkdpbGFuZyBSaXpreSBSYW1hZGhhbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcyOTQzMzA1MywiZXhwIjoxNzI5NDM2NjUzfQ.bekBek2X29vQnhG_VtYJqNVp9OdaexnPuuEZ4yg42z0
+        )
+
+)
+
+INFO - 2024-10-20 14:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:04:13 --> User logged in: NIP1111
+INFO - 2024-10-20 14:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:04:35 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+ERROR - 2024-10-20 14:04:35 --> HTTP error: 22 : The requested URL returned error: 403
+INFO - 2024-10-20 14:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:04:55 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+ERROR - 2024-10-20 14:04:55 --> HTTP error: 22 : The requested URL returned error: 403
+INFO - 2024-10-20 14:04:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:04:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:05:04 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+ERROR - 2024-10-20 14:05:04 --> HTTP error: 22 : The requested URL returned error: 403
+INFO - 2024-10-20 14:05:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:05:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:05:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:05:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:05:29 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+ERROR - 2024-10-20 14:05:29 --> HTTP error: 22 : The requested URL returned error: 403
+INFO - 2024-10-20 14:05:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:05:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:05:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:06:03 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+ERROR - 2024-10-20 14:06:03 --> HTTP error: 22 : The requested URL returned error: 403
+INFO - 2024-10-20 14:06:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:09:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:09:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:09:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:09:32 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+INFO - 2024-10-20 14:09:33 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 4
+            [name] => Gilang Rizky Ramadhan
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6IkdpbGFuZyBSaXpreSBSYW1hZGhhbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcyOTQzMzM3MywiZXhwIjoxNzI5NDM2OTczfQ.WRKFDt7PJIBeemBeRosyt19pTf4Q81M2eGoFd6MBIkA
+        )
+
+)
+
+INFO - 2024-10-20 14:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:09:33 --> User logged in: NIP1111
+INFO - 2024-10-20 14:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:10:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:12:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:12:26 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+INFO - 2024-10-20 14:12:26 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 4
+            [name] => Gilang Rizky Ramadhan
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6IkdpbGFuZyBSaXpreSBSYW1hZGhhbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcyOTQzMzU0NiwiZXhwIjoxNzI5NDM3MTQ2fQ.ven0DjTOLHWhkNXnqK_BrKgzf1Zm-zjv_A_rvBmwf70
+        )
+
+)
+
+INFO - 2024-10-20 14:12:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:12:26 --> User logged in: NIP1111
+INFO - 2024-10-20 14:12:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:12:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:14:40 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+ERROR - 2024-10-20 14:14:40 --> HTTP error: 22 : The requested URL returned error: 403
+INFO - 2024-10-20 14:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:17:43 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+INFO - 2024-10-20 14:17:43 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 4
+            [name] => Gilang Rizky Ramadhan
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6IkdpbGFuZyBSaXpreSBSYW1hZGhhbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcyOTQzMzg2MywiZXhwIjoxNzI5NDM3NDYzfQ.-Oo754iQXqQIwbdWkYD2nP32xSFc_rbriGw18eBEDPk
+        )
+
+)
+
+INFO - 2024-10-20 14:17:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:17:43 --> User logged in: NIP1111
+INFO - 2024-10-20 14:17:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:18:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:18:14 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+INFO - 2024-10-20 14:18:14 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 4
+            [name] => Gilang Rizky Ramadhan
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6IkdpbGFuZyBSaXpreSBSYW1hZGhhbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcyOTQzMzg5NCwiZXhwIjoxNzI5NDM3NDk0fQ.KerK3DLOTBm07vGUJpbtAE3ouJHrKafuBqIHpMQ6h20
+        )
+
+)
+
+INFO - 2024-10-20 14:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:18:14 --> User logged in: NIP1111
+INFO - 2024-10-20 14:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:19:15 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+INFO - 2024-10-20 14:19:15 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 4
+            [name] => Gilang Rizky Ramadhan
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6IkdpbGFuZyBSaXpreSBSYW1hZGhhbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcyOTQzMzk1NSwiZXhwIjoxNzI5NDM3NTU1fQ.CKpSnqQZe8nWAKXviyeeqGeefRzAmQ9xii-uVR3zSa0
+        )
+
+)
+
+INFO - 2024-10-20 14:19:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:19:15 --> User logged in: NIP1111
+INFO - 2024-10-20 14:19:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:20:25 --> Attempting to login with NIP: admin and Name: admin
+INFO - 2024-10-20 14:20:25 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => admin
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDM0MDI1LCJleHAiOjE3Mjk0Mzc2MjV9.uo8SaYSwh-D5jlHjMUzCH8NwFoOfT3JHlP7vySMAHPg
+        )
+
+)
+
+INFO - 2024-10-20 14:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:20:25 --> User logged in: admin
+INFO - 2024-10-20 14:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:23:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:23:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:23:58 --> Attempting to login with NIP: admin and Name: admin
+INFO - 2024-10-20 14:23:58 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => admin
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDM0MjM4LCJleHAiOjE3Mjk0Mzc4Mzh9.vosffWwnhgPq851VN-HNaJCoO3h6irUQt7gGD4enxEs
+        )
+
+)
+
+INFO - 2024-10-20 14:23:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:23:58 --> User logged in: admin
+INFO - 2024-10-20 14:23:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:24:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:28:29 --> Attempting to login with NIP: admin and Name: admin
+INFO - 2024-10-20 14:28:29 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => admin
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDM0NTA5LCJleHAiOjE3Mjk0MzgxMDl9.Hrf4o0G2DS2f6QuLeCNBNVJzIrs0h7v8VCROvQ4G-qU
+        )
+
+)
+
+INFO - 2024-10-20 14:28:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:28:29 --> User logged in: admin
+INFO - 2024-10-20 14:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:28:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:28:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:28:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-20 14:29:22 --> ID: 105, Jumlah Cuti: 2, keterangan: Tahunan
+INFO - 2024-10-20 14:29:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:29:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:31:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:31:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:31:19 --> Attempting to login with NIP: admin and Name: admin
+INFO - 2024-10-20 14:31:19 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => admin
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDM0Njc5LCJleHAiOjE3Mjk0MzgyNzl9.cEolbJlh2fd2PM74fU9ge1TerG3XXpaYHyoH69hZDo0
+        )
+
+)
+
+INFO - 2024-10-20 14:31:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:31:19 --> User logged in: admin
+INFO - 2024-10-20 14:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-20 14:31:45 --> ID: 59, Jumlah Cuti: 2, keterangan: Tahunan
+INFO - 2024-10-20 14:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:31:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:32:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:48:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:48:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:48:36 --> Attempting to login with NIP: admin and Name: admin
+INFO - 2024-10-20 14:48:36 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => admin
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDM1NzE2LCJleHAiOjE3Mjk0MzkzMTZ9.DtjwHx_fZJdlFw3CAcHda6ZZAzWc7uVJDW-KsiB4tSU
+        )
+
+)
+
+INFO - 2024-10-20 14:48:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 14:48:36 --> User logged in: admin
+INFO - 2024-10-20 14:48:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 16:10:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 16:10:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-20 16:10:51 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: auth/logout]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/logout')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/logout', [...])
+ 5 APPPATH\Controllers\Auth.php(79): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/logout', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->logout()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 16:10:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-20 16:10:55 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 403
+[Method: POST, Route: auth/logout]
+in SYSTEMPATH\HTTP\CURLRequest.php on line 694.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 403')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('POST', 'http://localhost:3000/logout')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(227): CodeIgniter\HTTP\CURLRequest->request('POST', 'http://localhost:3000/logout', [...])
+ 5 APPPATH\Controllers\Auth.php(79): CodeIgniter\HTTP\CURLRequest->post('http://localhost:3000/logout', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth->logout()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-20 16:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 16:11:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 16:11:09 --> Attempting to login with NIP: admin and Name: admin
+INFO - 2024-10-20 16:11:09 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => admin
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6ImFkbWluIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzI5NDQwNjY5LCJleHAiOjE3Mjk0NDQyNjl9.cF4Xkn81n1ngeJnGZtDX04Q0cEfN6ATbqnVKCfMyzV4
+        )
+
+)
+
+INFO - 2024-10-20 16:11:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 16:11:09 --> User logged in: admin
+INFO - 2024-10-20 16:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 16:11:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-20 16:11:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

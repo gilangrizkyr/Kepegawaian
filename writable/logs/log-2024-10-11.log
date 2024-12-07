@@ -1,0 +1,1871 @@
+INFO - 2024-10-11 01:11:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:11:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:11:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:11:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:12:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:12:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:13:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:13:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:13:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:13:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:19:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:19:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:19:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:21:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:22:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:22:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:22:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:22:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:22:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:22:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:23:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:23:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:23:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:23:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:23:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:24:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 01:44:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:44:23 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:44:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:44:23 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:46:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:46:14 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:46:17 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:46:20 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:46:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:46:21 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:47:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:47:17 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:47:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:47:17 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:47:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:47:18 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:47:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:47:37 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:48:11 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:48:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:48:12 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:48:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:48:13 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:50:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/template.php"
+[Method: GET, Route: dashboard/data_pegawai]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 4 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:50:25 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/template.php"
+[Method: GET, Route: dashboard/data_pegawai]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 4 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:50:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:50:27 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/template.php"
+[Method: GET, Route: dashboard/data_pegawai]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 4 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:51:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:51:31 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:55:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:55:11 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:55:12 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:55:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:55:13 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:55:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:55:14 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:55:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:55:14 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:55:15 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 01:55:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 01:55:16 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:09:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:09:52 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:09:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:09:54 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:10:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:10:00 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:10:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:10:00 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:15:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:15:31 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:24:02 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:24:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:24:03 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:24:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:24:04 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:24:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:24:05 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:24:06 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:24:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 02:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 02:24:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 02:24:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 02:24:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 02:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:26:07 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:26:08 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:26:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:26:09 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:26:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:26:11 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:26:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:26:12 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:26:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:26:18 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:26:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:26:18 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 02:26:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 02:26:19 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 23.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 05:51:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 05:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 05:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 05:51:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 05:51:26 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 05:52:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 05:52:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 05:52:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 05:52:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 05:52:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 05:52:39 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 05:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 05:52:41 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 05:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 05:57:00 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 05:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 05:57:22 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 05:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 05:59:33 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 05:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 05:59:33 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 05:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 05:59:33 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 05:59:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 05:59:34 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:00:20 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:02:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:02:08 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:02:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:02:10 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:02:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:02:11 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:02:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:02:15 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:02:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:02:20 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:02:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:02:21 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:06:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:06:07 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:06:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:06:25 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:06:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:06:26 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:06:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:06:27 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:06:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:07:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:07:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:08:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:08:04 --> ErrorException: Undefined variable $karyawan
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 25.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $karyawan', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:09:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:09:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:09:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:09:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:09:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:10:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:10:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:10:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:11:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:11:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:11:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:12:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:14:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:14:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:14:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:14:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:15:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:15:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:16:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:16:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:16:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:16:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:16:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:16:39 --> ParseError: syntax error, unexpected end of file, expecting "elseif" or "else" or "endif"
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 172.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:16:39 --> ParseError: syntax error, unexpected end of file, expecting "elseif" or "else" or "endif"
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 172.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:16:39 --> ParseError: syntax error, unexpected end of file, expecting "elseif" or "else" or "endif"
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 172.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:16:40 --> ParseError: syntax error, unexpected end of file, expecting "elseif" or "else" or "endif"
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 172.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:16:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:16:41 --> ParseError: syntax error, unexpected end of file, expecting "elseif" or "else" or "endif"
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 172.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:16:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:16:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:18:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:19:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:19:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:22:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:22:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:22:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:22:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:22:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:22:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:22:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:22:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:23:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:23:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:23:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:23:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:25:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:25:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:25:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:25:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:25:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:25:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:25:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:25:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:26:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:26:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:26:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:26:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:27:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:27:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:28:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:28:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:28:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:28:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:29:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:29:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:29:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:29:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:31:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:31:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:31:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:31:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:31:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:32:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:36:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:37:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:37:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:37:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:37:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:37:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:38:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:38:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:38:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:38:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:38:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:38:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:38:39 --> ErrorException: Undefined variable $data
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 2.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 2)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:38:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:38:40 --> ErrorException: Undefined variable $data
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 2.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 2)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:38:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:38:41 --> ErrorException: Undefined variable $data
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 2.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 2)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:38:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:38:49 --> ErrorException: Undefined variable $data
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 2.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 2)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:38:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:38:49 --> ErrorException: Undefined variable $data
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 2.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 2)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:38:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:38:50 --> ErrorException: Undefined variable $data
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 2.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 2)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:38:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:38:50 --> ErrorException: Undefined variable $data
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 2.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 2)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:38:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:38:51 --> ErrorException: Undefined variable $data
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 2.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 2)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:38:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:38:52 --> ErrorException: Undefined variable $data
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Views\dashboard\data_pegawai.php on line 2.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 2)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(23): view('dashboard/data_pegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:42:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:42:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:42:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 06:43:36 --> TypeError: App\Controllers\Dashboard::data_pegawai(): Return value must be of type string, none returned
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Controllers\Dashboard.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-10-11 06:43:36 --> TypeError: App\Controllers\Dashboard::data_pegawai(): Return value must be of type string, none returned
+[Method: GET, Route: dashboard/data_pegawai]
+in APPPATH\Controllers\Dashboard.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->data_pegawai()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 06:43:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:43:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:44:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:44:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:44:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:45:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 06:45:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:11:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:11:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:12:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:13:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:13:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:13:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:14:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:14:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:14:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:14:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:14:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:15:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:15:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:17:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:17:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:18:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:18:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:18:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:18:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:18:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:20:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 08:20:13 --> ErrorException: Cannot declare class App\Models\KaryawanModel, because the name is already in use
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-10-11 08:20:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-11 08:20:14 --> ErrorException: Cannot declare class App\Models\KaryawanModel, because the name is already in use
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-10-11 08:20:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:20:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:20:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:22:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:22:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:22:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:36:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:37:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:37:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:38:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:38:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:40:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:41:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:41:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:44:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:44:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:45:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:45:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:45:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:45:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:45:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:51:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:51:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:52:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:55:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:55:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:55:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:55:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:55:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:56:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:56:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:56:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:56:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:56:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:56:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:58:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:58:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:59:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:59:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 08:59:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:00:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:00:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:00:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:01:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:01:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:01:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:04:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:04:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:05:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:05:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:05:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:05:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:07:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:07:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:07:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:07:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:07:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:07:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:07:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:07:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:07:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:07:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:07:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:08:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:09:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:09:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:09:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:09:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:09:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:11:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:11:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:11:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:13:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:13:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:14:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:15:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:17:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-11 09:17:19 --> mysqli_sql_exception: Column 'jenis_kelamin' cannot be null in C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `da...', 0)
+#1 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `da...')
+#2 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `da...')
+#3 C:\laragon\www\HRProgress\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `da...', Array, false)
+#4 C:\laragon\www\HRProgress\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\HRProgress\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\HRProgress\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\laragon\www\HRProgress\system\BaseModel.php(751): CodeIgniter\Model->insert(Array, false)
+#8 C:\laragon\www\HRProgress\app\Controllers\Karyawan.php(29): CodeIgniter\BaseModel->save(Array)
+#9 C:\laragon\www\HRProgress\system\CodeIgniter.php(933): App\Controllers\Karyawan->store()
+#10 C:\laragon\www\HRProgress\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+#11 C:\laragon\www\HRProgress\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\laragon\www\HRProgress\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\laragon\www\HRProgress\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\laragon\www\HRProgress\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\laragon\www\HRProgress\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#16 {main}
+CRITICAL - 2024-10-11 09:17:19 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'jenis_kelamin' cannot be null
+[Method: POST, Route: karyawan/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (:nama:, :jenis_kelamin:, :pendidikan_terakhir:, :golongan_terakhir:, :jabatan_terakhir:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Karyawan.php(29): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-10-11 09:17:19 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'jenis_kelamin' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (:nama:, :jenis_kelamin:, :pendidikan_terakhir:, :golongan_terakhir:, :jabatan_terakhir:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\Karyawan.php(29): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->store()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-10-11 09:17:19 --> [Caused by] mysqli_sql_exception: Column 'jenis_kelamin' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (:nama:, :jenis_kelamin:, :pendidikan_terakhir:, :golongan_terakhir:, :jabatan_terakhir:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\Karyawan.php(29): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->store()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+ERROR - 2024-10-11 09:17:19 --> mysqli_sql_exception: Column 'jenis_kelamin' cannot be null in C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `da...', 0)
+#1 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `da...')
+#2 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `da...')
+#3 C:\laragon\www\HRProgress\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `da...', Array, false)
+#4 C:\laragon\www\HRProgress\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\HRProgress\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\HRProgress\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\laragon\www\HRProgress\system\BaseModel.php(751): CodeIgniter\Model->insert(Array, false)
+#8 C:\laragon\www\HRProgress\app\Controllers\Karyawan.php(29): CodeIgniter\BaseModel->save(Array)
+#9 C:\laragon\www\HRProgress\system\CodeIgniter.php(933): App\Controllers\Karyawan->store()
+#10 C:\laragon\www\HRProgress\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+#11 C:\laragon\www\HRProgress\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\laragon\www\HRProgress\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\laragon\www\HRProgress\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\laragon\www\HRProgress\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\laragon\www\HRProgress\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#16 {main}
+CRITICAL - 2024-10-11 09:17:19 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'jenis_kelamin' cannot be null
+[Method: POST, Route: karyawan/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (:nama:, :jenis_kelamin:, :pendidikan_terakhir:, :golongan_terakhir:, :jabatan_terakhir:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Karyawan.php(29): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-10-11 09:17:19 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'jenis_kelamin' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (:nama:, :jenis_kelamin:, :pendidikan_terakhir:, :golongan_terakhir:, :jabatan_terakhir:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\Karyawan.php(29): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->store()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-10-11 09:17:19 --> [Caused by] mysqli_sql_exception: Column 'jenis_kelamin' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (:nama:, :jenis_kelamin:, :pendidikan_terakhir:, :golongan_terakhir:, :jabatan_terakhir:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\Karyawan.php(29): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->store()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+ERROR - 2024-10-11 09:17:20 --> mysqli_sql_exception: Column 'jenis_kelamin' cannot be null in C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `da...', 0)
+#1 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `da...')
+#2 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `da...')
+#3 C:\laragon\www\HRProgress\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `da...', Array, false)
+#4 C:\laragon\www\HRProgress\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\HRProgress\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\HRProgress\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\laragon\www\HRProgress\system\BaseModel.php(751): CodeIgniter\Model->insert(Array, false)
+#8 C:\laragon\www\HRProgress\app\Controllers\Karyawan.php(29): CodeIgniter\BaseModel->save(Array)
+#9 C:\laragon\www\HRProgress\system\CodeIgniter.php(933): App\Controllers\Karyawan->store()
+#10 C:\laragon\www\HRProgress\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+#11 C:\laragon\www\HRProgress\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\laragon\www\HRProgress\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\laragon\www\HRProgress\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\laragon\www\HRProgress\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\laragon\www\HRProgress\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#16 {main}
+CRITICAL - 2024-10-11 09:17:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'jenis_kelamin' cannot be null
+[Method: POST, Route: karyawan/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (:nama:, :jenis_kelamin:, :pendidikan_terakhir:, :golongan_terakhir:, :jabatan_terakhir:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Karyawan.php(29): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-10-11 09:17:20 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'jenis_kelamin' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (:nama:, :jenis_kelamin:, :pendidikan_terakhir:, :golongan_terakhir:, :jabatan_terakhir:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\Karyawan.php(29): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->store()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-10-11 09:17:20 --> [Caused by] mysqli_sql_exception: Column 'jenis_kelamin' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (:nama:, :jenis_kelamin:, :pendidikan_terakhir:, :golongan_terakhir:, :jabatan_terakhir:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\Karyawan.php(29): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->store()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+ERROR - 2024-10-11 09:17:20 --> mysqli_sql_exception: Column 'jenis_kelamin' cannot be null in C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `da...', 0)
+#1 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `da...')
+#2 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `da...')
+#3 C:\laragon\www\HRProgress\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `da...', Array, false)
+#4 C:\laragon\www\HRProgress\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\HRProgress\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\HRProgress\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\laragon\www\HRProgress\system\BaseModel.php(751): CodeIgniter\Model->insert(Array, false)
+#8 C:\laragon\www\HRProgress\app\Controllers\Karyawan.php(29): CodeIgniter\BaseModel->save(Array)
+#9 C:\laragon\www\HRProgress\system\CodeIgniter.php(933): App\Controllers\Karyawan->store()
+#10 C:\laragon\www\HRProgress\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+#11 C:\laragon\www\HRProgress\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\laragon\www\HRProgress\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\laragon\www\HRProgress\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\laragon\www\HRProgress\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\laragon\www\HRProgress\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#16 {main}
+CRITICAL - 2024-10-11 09:17:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'jenis_kelamin' cannot be null
+[Method: POST, Route: karyawan/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (:nama:, :jenis_kelamin:, :pendidikan_terakhir:, :golongan_terakhir:, :jabatan_terakhir:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Karyawan.php(29): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-10-11 09:17:20 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'jenis_kelamin' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (:nama:, :jenis_kelamin:, :pendidikan_terakhir:, :golongan_terakhir:, :jabatan_terakhir:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\Karyawan.php(29): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->store()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-10-11 09:17:20 --> [Caused by] mysqli_sql_exception: Column 'jenis_kelamin' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (\'Kurniadi\', NULL, NULL, NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `data_karyawan` (`nama`, `jenis_kelamin`, `pendidikan_terakhir`, `golongan_terakhir`, `jabatan_terakhir`) VALUES (:nama:, :jenis_kelamin:, :pendidikan_terakhir:, :golongan_terakhir:, :jabatan_terakhir:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\Karyawan.php(29): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->store()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-11 09:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:18:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:18:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-11 09:19:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

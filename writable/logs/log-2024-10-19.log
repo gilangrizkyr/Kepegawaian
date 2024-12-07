@@ -1,0 +1,1666 @@
+INFO - 2024-10-19 05:53:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 05:53:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 05:53:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 05:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 05:58:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 05:58:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 05:58:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-19 05:58:30 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ass)ets"
+[Method: GET, Route: ass%29ets/master/vendors/images/ptptk1.png]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ass)ets/master/vendors/images/ptptk1.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ass)ets/master/vendors/images/ptptk1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-19 05:58:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-19 05:58:40 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ass)ets"
+[Method: GET, Route: ass%29ets/master/vendors/images/ptptk1.png]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ass)ets/master/vendors/images/ptptk1.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ass)ets/master/vendors/images/ptptk1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-10-19 05:58:45 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ass)ets"
+[Method: GET, Route: ass%29ets/master/vendors/images/ptptk1.png]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ass)ets/master/vendors/images/ptptk1.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ass)ets/master/vendors/images/ptptk1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-19 05:59:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 05:59:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:00:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:00:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:00:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:00:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:01:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:02:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:02:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:02:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:02:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:02:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:02:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:02:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:02:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:03:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:03:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:03:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:03:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:03:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:03:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:03:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:04:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:04:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:04:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:04:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:04:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:04:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:05:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-19 06:05:32 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ass)ets"
+[Method: GET, Route: ass%29ets/master/vendors/images/ptptk1.png]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ass)ets/master/vendors/images/ptptk1.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ass)ets/master/vendors/images/ptptk1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-19 06:05:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:05:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:06:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:06:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:06:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:07:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:08:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:08:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 06:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-19 06:29:04 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ass)ets"
+[Method: GET, Route: ass%29ets/master/vendors/images/ptptk1.png]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ass)ets/master/vendors/images/ptptk1.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ass)ets/master/vendors/images/ptptk1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-10-19 06:29:07 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ass)ets"
+[Method: GET, Route: ass%29ets/master/vendors/images/ptptk1.png]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ass)ets/master/vendors/images/ptptk1.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ass)ets/master/vendors/images/ptptk1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-10-19 06:29:28 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ass)ets"
+[Method: GET, Route: ass%29ets/master/vendors/images/ptptk1.png]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ass)ets/master/vendors/images/ptptk1.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ass)ets/master/vendors/images/ptptk1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-19 06:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 07:38:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 07:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 07:39:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 07:40:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 07:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 07:42:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 07:43:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 07:44:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 07:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 07:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-19 07:45:02 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ass)ets"
+[Method: GET, Route: ass%29ets/master/vendors/images/ptptk1.png]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ass)ets/master/vendors/images/ptptk1.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ass)ets/master/vendors/images/ptptk1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-10-19 07:46:32 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ass)ets"
+[Method: GET, Route: ass%29ets/master/vendors/images/ptptk1.png]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ass)ets/master/vendors/images/ptptk1.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ass)ets/master/vendors/images/ptptk1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-19 07:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 07:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 07:54:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 10:27:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 10:27:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 10:27:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 10:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 10:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 10:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 10:27:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 10:28:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 10:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 10:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 10:28:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 13:58:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 13:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 13:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 13:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 13:59:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 13:59:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:00:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:01:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:01:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:18:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-19 14:18:31 --> Error: Class "App\Models\RangkumancutiModel" not found
+[Method: GET, Route: rangkumancuti]
+in APPPATH\Controllers\Rangkumancuti.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:18:38 --> Error: Class "App\Models\RangkumancutiModel" not found
+[Method: GET, Route: rangkumancuti]
+in APPPATH\Controllers\Rangkumancuti.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:19:13 --> Error: Call to undefined method App\Controllers\Rangkumancuti::getRangkumanCuti()
+[Method: GET, Route: rangkumancuti]
+in APPPATH\Controllers\Rangkumancuti.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:19:14 --> Error: Call to undefined method App\Controllers\Rangkumancuti::getRangkumanCuti()
+[Method: GET, Route: rangkumancuti]
+in APPPATH\Controllers\Rangkumancuti.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:19:52 --> ErrorException: Cannot declare class App\Controllers\Rangkumancuti because the name is already in use
+[Method: GET, Route: rangkumancuti]
+in APPPATH\Controllers\Rangkumancuti.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-10-19 14:19:53 --> ErrorException: Cannot declare class App\Controllers\Rangkumancuti because the name is already in use
+[Method: GET, Route: rangkumancuti]
+in APPPATH\Controllers\Rangkumancuti.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-10-19 14:21:23 --> ErrorException: Cannot declare class App\Controllers\Rangkumancuti because the name is already in use
+[Method: GET, Route: rangkumancuti]
+in APPPATH\Controllers\Rangkumancuti.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-10-19 14:21:24 --> ErrorException: Cannot declare class App\Controllers\Rangkumancuti because the name is already in use
+[Method: GET, Route: rangkumancuti]
+in APPPATH\Controllers\Rangkumancuti.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2024-10-19 14:23:15 --> mysqli_sql_exception: Table 'pegawai_pt.history_cuti' doesn't exist in C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php(312): mysqli->query('\r\n            S...', 0)
+#1 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\laragon\www\HRProgress\app\Models\Rangkumancuti.php(14): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\laragon\www\HRProgress\app\Controllers\Rangkumancuti.php(13): App\Models\Rangkumancuti->getRangkumanCuti()
+#5 C:\laragon\www\HRProgress\system\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+#6 C:\laragon\www\HRProgress\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+#7 C:\laragon\www\HRProgress\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\HRProgress\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\laragon\www\HRProgress\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\laragon\www\HRProgress\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-10-19 14:23:15 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'pegawai_pt.history_cuti' doesn't exist
+[Method: GET, Route: rangkumancuti]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\Rangkumancuti.php(14): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 2 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\Rangkumancuti->getRangkumanCuti()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:23:15 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'pegawai_pt.history_cuti' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 3 APPPATH\Models\Rangkumancuti.php(14): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 4 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\Rangkumancuti->getRangkumanCuti()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:23:15 --> [Caused by] mysqli_sql_exception: Table 'pegawai_pt.history_cuti' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 4 APPPATH\Models\Rangkumancuti.php(14): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 5 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\Rangkumancuti->getRangkumanCuti()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:33:44 --> ErrorException: Cannot declare class App\Controllers\Rangkumancuti because the name is already in use
+[Method: GET, Route: rangkumancuti]
+in APPPATH\Controllers\Rangkumancuti.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-10-19 14:34:44 --> Error: Class "App\Models\RangkumancutiModel" not found
+[Method: GET, Route: rangkumancuti]
+in APPPATH\Controllers\Rangkumancuti.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:36:43 --> Error: Class "App\Models\RangkumancutiModel" not found
+[Method: GET, Route: rangkumancuti]
+in APPPATH\Controllers\Rangkumancuti.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:38:19 --> Error: Class "App\Models\RangkumancutiModel" not found
+[Method: GET, Route: rangkumancuti]
+in APPPATH\Controllers\Rangkumancuti.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:38:53 --> Error: Class "App\Models\RangkumancutiModel" not found
+[Method: GET, Route: rangkumancuti]
+in APPPATH\Controllers\Rangkumancuti.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:40:00 --> Error: Class "App\Models\RangkumancutiModel" not found
+[Method: GET, Route: rangkumancuti]
+in APPPATH\Controllers\Rangkumancuti.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-19 14:40:34 --> mysqli_sql_exception: Table 'pegawai_pt.history_cuti' doesn't exist in C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php(312): mysqli->query('\r\n            S...', 0)
+#1 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\laragon\www\HRProgress\app\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\laragon\www\HRProgress\app\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+#5 C:\laragon\www\HRProgress\system\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+#6 C:\laragon\www\HRProgress\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+#7 C:\laragon\www\HRProgress\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\HRProgress\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\laragon\www\HRProgress\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\laragon\www\HRProgress\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-10-19 14:40:34 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'pegawai_pt.history_cuti' doesn't exist
+[Method: GET, Route: rangkumancuti]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 2 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:40:34 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'pegawai_pt.history_cuti' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 3 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 4 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:40:34 --> [Caused by] mysqli_sql_exception: Table 'pegawai_pt.history_cuti' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 4 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 5 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-19 14:41:02 --> mysqli_sql_exception: Table 'pegawai_pt.history_cuti' doesn't exist in C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php(312): mysqli->query('\r\n            S...', 0)
+#1 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\laragon\www\HRProgress\app\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\laragon\www\HRProgress\app\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+#5 C:\laragon\www\HRProgress\system\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+#6 C:\laragon\www\HRProgress\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+#7 C:\laragon\www\HRProgress\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\HRProgress\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\laragon\www\HRProgress\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\laragon\www\HRProgress\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-10-19 14:41:02 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'pegawai_pt.history_cuti' doesn't exist
+[Method: GET, Route: rangkumancuti]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 2 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:41:02 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'pegawai_pt.history_cuti' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 3 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 4 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:41:02 --> [Caused by] mysqli_sql_exception: Table 'pegawai_pt.history_cuti' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 4 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 5 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-19 14:41:05 --> mysqli_sql_exception: Table 'pegawai_pt.history_cuti' doesn't exist in C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php(312): mysqli->query('\r\n            S...', 0)
+#1 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\laragon\www\HRProgress\app\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\laragon\www\HRProgress\app\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+#5 C:\laragon\www\HRProgress\system\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+#6 C:\laragon\www\HRProgress\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+#7 C:\laragon\www\HRProgress\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\HRProgress\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\laragon\www\HRProgress\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\laragon\www\HRProgress\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-10-19 14:41:05 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'pegawai_pt.history_cuti' doesn't exist
+[Method: GET, Route: rangkumancuti]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 2 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:41:05 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'pegawai_pt.history_cuti' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 3 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 4 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:41:05 --> [Caused by] mysqli_sql_exception: Table 'pegawai_pt.history_cuti' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 4 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 5 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-19 14:41:07 --> mysqli_sql_exception: Table 'pegawai_pt.history_cuti' doesn't exist in C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php(312): mysqli->query('\r\n            S...', 0)
+#1 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\laragon\www\HRProgress\app\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\laragon\www\HRProgress\app\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+#5 C:\laragon\www\HRProgress\system\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+#6 C:\laragon\www\HRProgress\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+#7 C:\laragon\www\HRProgress\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\HRProgress\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\laragon\www\HRProgress\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\laragon\www\HRProgress\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-10-19 14:41:07 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'pegawai_pt.history_cuti' doesn't exist
+[Method: GET, Route: rangkumancuti]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 2 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:41:07 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'pegawai_pt.history_cuti' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 3 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 4 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:41:07 --> [Caused by] mysqli_sql_exception: Table 'pegawai_pt.history_cuti' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 4 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                karyawan_id,
+                COUNT(*) AS jumlah_cuti,
+                MIN(tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(tanggal_mulai, \' - \', tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                history_cuti
+            GROUP BY 
+                karyawan_id
+            ORDER BY 
+                karyawan_id
+        ')
+ 5 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-19 14:41:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:42:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:44:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:45:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:46:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:46:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:47:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:48:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:48:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:51:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:52:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:52:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:53:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:54:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:54:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:54:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 14:55:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-19 14:59:33 --> mysqli_sql_exception: Unknown column 'd.karyawan_id' in 'field list' in C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php(312): mysqli->query('\r\n            S...', 0)
+#1 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\laragon\www\HRProgress\app\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\laragon\www\HRProgress\app\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+#5 C:\laragon\www\HRProgress\system\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+#6 C:\laragon\www\HRProgress\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+#7 C:\laragon\www\HRProgress\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\HRProgress\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\laragon\www\HRProgress\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\laragon\www\HRProgress\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-10-19 14:59:33 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'd.karyawan_id' in 'field list'
+[Method: GET, Route: rangkumancuti]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                d.karyawan_id,
+                d.name AS nama_karyawan,
+                COUNT(*) AS jumlah_cuti,
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.karyawan_id = h.karyawan_id
+            GROUP BY 
+                d.karyawan_id
+            ORDER BY 
+                d.karyawan_id
+        ')
+ 2 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:59:33 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'd.karyawan_id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT 
+                d.karyawan_id,
+                d.name AS nama_karyawan,
+                COUNT(*) AS jumlah_cuti,
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.karyawan_id = h.karyawan_id
+            GROUP BY 
+                d.karyawan_id
+            ORDER BY 
+                d.karyawan_id
+        ')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT 
+                d.karyawan_id,
+                d.name AS nama_karyawan,
+                COUNT(*) AS jumlah_cuti,
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.karyawan_id = h.karyawan_id
+            GROUP BY 
+                d.karyawan_id
+            ORDER BY 
+                d.karyawan_id
+        ')
+ 3 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                d.karyawan_id,
+                d.name AS nama_karyawan,
+                COUNT(*) AS jumlah_cuti,
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.karyawan_id = h.karyawan_id
+            GROUP BY 
+                d.karyawan_id
+            ORDER BY 
+                d.karyawan_id
+        ')
+ 4 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 14:59:33 --> [Caused by] mysqli_sql_exception: Unknown column 'd.karyawan_id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('
+            SELECT 
+                d.karyawan_id,
+                d.name AS nama_karyawan,
+                COUNT(*) AS jumlah_cuti,
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.karyawan_id = h.karyawan_id
+            GROUP BY 
+                d.karyawan_id
+            ORDER BY 
+                d.karyawan_id
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT 
+                d.karyawan_id,
+                d.name AS nama_karyawan,
+                COUNT(*) AS jumlah_cuti,
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.karyawan_id = h.karyawan_id
+            GROUP BY 
+                d.karyawan_id
+            ORDER BY 
+                d.karyawan_id
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT 
+                d.karyawan_id,
+                d.name AS nama_karyawan,
+                COUNT(*) AS jumlah_cuti,
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.karyawan_id = h.karyawan_id
+            GROUP BY 
+                d.karyawan_id
+            ORDER BY 
+                d.karyawan_id
+        ')
+ 4 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                d.karyawan_id,
+                d.name AS nama_karyawan,
+                COUNT(*) AS jumlah_cuti,
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.karyawan_id = h.karyawan_id
+            GROUP BY 
+                d.karyawan_id
+            ORDER BY 
+                d.karyawan_id
+        ')
+ 5 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-19 15:00:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-19 15:04:04 --> mysqli_sql_exception: Unknown column 'd.karyawan_id' in 'on clause' in C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php(312): mysqli->query('\r\n            S...', 0)
+#1 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\laragon\www\HRProgress\app\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\laragon\www\HRProgress\app\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+#5 C:\laragon\www\HRProgress\system\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+#6 C:\laragon\www\HRProgress\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+#7 C:\laragon\www\HRProgress\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\HRProgress\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\laragon\www\HRProgress\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\laragon\www\HRProgress\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-10-19 15:04:04 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'd.karyawan_id' in 'on clause'
+[Method: GET, Route: rangkumancuti]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                d.name AS nama_karyawan, -- Ambil nama karyawan dari tabel data_karyawan
+                COUNT(*) AS jumlah_cuti,
+                MIN(h.tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(h.tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.karyawan_id = h.karyawan_id -- Bergabung dengan tabel data_karyawan
+            GROUP BY 
+                d.karyawan_id, d.name -- Kelompokkan berdasarkan karyawan_id dan name
+            ORDER BY 
+                d.karyawan_id
+        ')
+ 2 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 15:04:04 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'd.karyawan_id' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT 
+                d.name AS nama_karyawan, -- Ambil nama karyawan dari tabel data_karyawan
+                COUNT(*) AS jumlah_cuti,
+                MIN(h.tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(h.tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.karyawan_id = h.karyawan_id -- Bergabung dengan tabel data_karyawan
+            GROUP BY 
+                d.karyawan_id, d.name -- Kelompokkan berdasarkan karyawan_id dan name
+            ORDER BY 
+                d.karyawan_id
+        ')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT 
+                d.name AS nama_karyawan, -- Ambil nama karyawan dari tabel data_karyawan
+                COUNT(*) AS jumlah_cuti,
+                MIN(h.tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(h.tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.karyawan_id = h.karyawan_id -- Bergabung dengan tabel data_karyawan
+            GROUP BY 
+                d.karyawan_id, d.name -- Kelompokkan berdasarkan karyawan_id dan name
+            ORDER BY 
+                d.karyawan_id
+        ')
+ 3 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                d.name AS nama_karyawan, -- Ambil nama karyawan dari tabel data_karyawan
+                COUNT(*) AS jumlah_cuti,
+                MIN(h.tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(h.tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.karyawan_id = h.karyawan_id -- Bergabung dengan tabel data_karyawan
+            GROUP BY 
+                d.karyawan_id, d.name -- Kelompokkan berdasarkan karyawan_id dan name
+            ORDER BY 
+                d.karyawan_id
+        ')
+ 4 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 15:04:04 --> [Caused by] mysqli_sql_exception: Unknown column 'd.karyawan_id' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('
+            SELECT 
+                d.name AS nama_karyawan, -- Ambil nama karyawan dari tabel data_karyawan
+                COUNT(*) AS jumlah_cuti,
+                MIN(h.tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(h.tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.karyawan_id = h.karyawan_id -- Bergabung dengan tabel data_karyawan
+            GROUP BY 
+                d.karyawan_id, d.name -- Kelompokkan berdasarkan karyawan_id dan name
+            ORDER BY 
+                d.karyawan_id
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT 
+                d.name AS nama_karyawan, -- Ambil nama karyawan dari tabel data_karyawan
+                COUNT(*) AS jumlah_cuti,
+                MIN(h.tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(h.tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.karyawan_id = h.karyawan_id -- Bergabung dengan tabel data_karyawan
+            GROUP BY 
+                d.karyawan_id, d.name -- Kelompokkan berdasarkan karyawan_id dan name
+            ORDER BY 
+                d.karyawan_id
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT 
+                d.name AS nama_karyawan, -- Ambil nama karyawan dari tabel data_karyawan
+                COUNT(*) AS jumlah_cuti,
+                MIN(h.tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(h.tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.karyawan_id = h.karyawan_id -- Bergabung dengan tabel data_karyawan
+            GROUP BY 
+                d.karyawan_id, d.name -- Kelompokkan berdasarkan karyawan_id dan name
+            ORDER BY 
+                d.karyawan_id
+        ')
+ 4 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                d.name AS nama_karyawan, -- Ambil nama karyawan dari tabel data_karyawan
+                COUNT(*) AS jumlah_cuti,
+                MIN(h.tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(h.tanggal_akhir) AS tanggal_akhir_terakhir,
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.karyawan_id = h.karyawan_id -- Bergabung dengan tabel data_karyawan
+            GROUP BY 
+                d.karyawan_id, d.name -- Kelompokkan berdasarkan karyawan_id dan name
+            ORDER BY 
+                d.karyawan_id
+        ')
+ 5 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-19 15:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:09:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-19 15:12:26 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP_CONCAT(CONCAT(h.tanggal_mulai, ' - ', h.tanggal_akhir) SEPARATOR '; ') ...' at line 7 in C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php(312): mysqli->query('\r\n            S...', 0)
+#1 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\laragon\www\HRProgress\app\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\laragon\www\HRProgress\app\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+#5 C:\laragon\www\HRProgress\system\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+#6 C:\laragon\www\HRProgress\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+#7 C:\laragon\www\HRProgress\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\HRProgress\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\laragon\www\HRProgress\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\laragon\www\HRProgress\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-10-19 15:12:26 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP_CONCAT(CONCAT(h.tanggal_mulai, ' - ', h.tanggal_akhir) SEPARATOR '; ') ...' at line 7
+[Method: GET, Route: rangkumancuti]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                d.name AS nama_karyawan, -- Mengambil nama karyawan
+                COUNT(*) AS jumlah_cuti,
+                MIN(h.tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(h.tanggal_akhir) AS tanggal_akhir_terakhir,
+                MIN(h.keterangan) AS keterangan
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.id = h.karyawan_id
+            GROUP BY 
+                d.id
+            ORDER BY 
+                d.id
+        ')
+ 2 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 15:12:26 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP_CONCAT(CONCAT(h.tanggal_mulai, ' - ', h.tanggal_akhir) SEPARATOR '; ') ...' at line 7
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT 
+                d.name AS nama_karyawan, -- Mengambil nama karyawan
+                COUNT(*) AS jumlah_cuti,
+                MIN(h.tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(h.tanggal_akhir) AS tanggal_akhir_terakhir,
+                MIN(h.keterangan) AS keterangan
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.id = h.karyawan_id
+            GROUP BY 
+                d.id
+            ORDER BY 
+                d.id
+        ')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT 
+                d.name AS nama_karyawan, -- Mengambil nama karyawan
+                COUNT(*) AS jumlah_cuti,
+                MIN(h.tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(h.tanggal_akhir) AS tanggal_akhir_terakhir,
+                MIN(h.keterangan) AS keterangan
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.id = h.karyawan_id
+            GROUP BY 
+                d.id
+            ORDER BY 
+                d.id
+        ')
+ 3 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                d.name AS nama_karyawan, -- Mengambil nama karyawan
+                COUNT(*) AS jumlah_cuti,
+                MIN(h.tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(h.tanggal_akhir) AS tanggal_akhir_terakhir,
+                MIN(h.keterangan) AS keterangan
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.id = h.karyawan_id
+            GROUP BY 
+                d.id
+            ORDER BY 
+                d.id
+        ')
+ 4 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 15:12:26 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP_CONCAT(CONCAT(h.tanggal_mulai, ' - ', h.tanggal_akhir) SEPARATOR '; ') ...' at line 7
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('
+            SELECT 
+                d.name AS nama_karyawan, -- Mengambil nama karyawan
+                COUNT(*) AS jumlah_cuti,
+                MIN(h.tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(h.tanggal_akhir) AS tanggal_akhir_terakhir,
+                MIN(h.keterangan) AS keterangan
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.id = h.karyawan_id
+            GROUP BY 
+                d.id
+            ORDER BY 
+                d.id
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT 
+                d.name AS nama_karyawan, -- Mengambil nama karyawan
+                COUNT(*) AS jumlah_cuti,
+                MIN(h.tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(h.tanggal_akhir) AS tanggal_akhir_terakhir,
+                MIN(h.keterangan) AS keterangan
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.id = h.karyawan_id
+            GROUP BY 
+                d.id
+            ORDER BY 
+                d.id
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT 
+                d.name AS nama_karyawan, -- Mengambil nama karyawan
+                COUNT(*) AS jumlah_cuti,
+                MIN(h.tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(h.tanggal_akhir) AS tanggal_akhir_terakhir,
+                MIN(h.keterangan) AS keterangan
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.id = h.karyawan_id
+            GROUP BY 
+                d.id
+            ORDER BY 
+                d.id
+        ')
+ 4 APPPATH\Models\RangkumancutiModel.php(15): CodeIgniter\Database\BaseConnection->query('
+            SELECT 
+                d.name AS nama_karyawan, -- Mengambil nama karyawan
+                COUNT(*) AS jumlah_cuti,
+                MIN(h.tanggal_mulai) AS tanggal_mulai_pertama,
+                MAX(h.tanggal_akhir) AS tanggal_akhir_terakhir,
+                MIN(h.keterangan) AS keterangan
+                GROUP_CONCAT(CONCAT(h.tanggal_mulai, \' - \', h.tanggal_akhir) SEPARATOR \'; \') AS rincian_cuti
+            FROM 
+                histori_cuti h
+            JOIN 
+                data_karyawan d ON d.id = h.karyawan_id
+            GROUP BY 
+                d.id
+            ORDER BY 
+                d.id
+        ')
+ 5 APPPATH\Controllers\Rangkumancuti.php(13): App\Models\RangkumancutiModel->getRangkumanCuti()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Rangkumancuti->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rangkumancuti))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-19 15:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:14:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:15:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:16:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:17:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:19:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:20:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:20:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:20:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:21:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:34:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:36:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-19 15:38:37 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ass)ets"
+[Method: GET, Route: ass%29ets/master/vendors/images/ptptk1.png]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ass)ets/master/vendors/images/ptptk1.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ass)ets/master/vendors/images/ptptk1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 15:38:47 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ass)ets"
+[Method: GET, Route: ass%29ets/master/vendors/images/ptptk1.png]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ass)ets/master/vendors/images/ptptk1.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ass)ets/master/vendors/images/ptptk1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-19 15:38:59 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ass)ets"
+[Method: GET, Route: ass%29ets/master/vendors/images/ptptk1.png]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ass)ets/master/vendors/images/ptptk1.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ass)ets/master/vendors/images/ptptk1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-19 15:39:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-19 15:40:09 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ass)ets"
+[Method: GET, Route: ass%29ets/master/vendors/images/ptptk1.png]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ass)ets/master/vendors/images/ptptk1.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ass)ets/master/vendors/images/ptptk1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-19 15:40:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:40:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:42:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:42:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:42:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:42:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:42:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:43:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-19 15:43:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

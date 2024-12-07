@@ -1,0 +1,305 @@
+INFO - 2024-11-27 14:07:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 14:10:52 --> Attempting to login with NIP: NIP1111 and Name: Gilang Rizky Ramadhan
+INFO - 2024-11-27 14:10:52 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 4
+            [name] => Gilang Rizky Ramadhan
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwibmFtZSI6IkdpbGFuZyBSaXpreSBSYW1hZGhhbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTczMjcxNjY1MiwiZXhwIjoxNzMyNzIwMjUyfQ.we4J2i-knuQCjLUvGE4xPF97zQckSrPM1HUriDHj-0Q
+        )
+
+)
+
+INFO - 2024-11-27 14:10:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 14:10:52 --> User logged in: NIP1111
+INFO - 2024-11-27 14:10:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 14:34:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 14:34:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-27 14:34:56 --> ErrorException: Undefined array key "role"
+[Method: GET, Route: dashboard]
+in APPPATH\Views\TemplateDashboard\sidebar.php on line 67.
+ 1 APPPATH\Views\TemplateDashboard\sidebar.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "role"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\TemplateDashboard\\sidebar.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\TemplateDashboard\\sidebar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Templatedashboard/sidebar', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(37): view('Templatedashboard/sidebar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-27 14:34:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 14:35:16 --> Attempting to login with NIP: admin and Name: Administrator
+INFO - 2024-11-27 14:35:16 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => Administrator
+            [role] => super_admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6IkFkbWluaXN0cmF0b3IiLCJyb2xlIjoic3VwZXJfYWRtaW4iLCJpYXQiOjE3MzI3MTgxMTYsImV4cCI6MTczMjcyMTcxNn0.qjXmGMYYVSe_t-nXDpV6BLVKMGzJSRu3QoViH_QQIBk
+        )
+
+)
+
+INFO - 2024-11-27 14:35:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 14:35:16 --> User logged in: admin
+INFO - 2024-11-27 14:35:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 14:35:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 14:35:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 14:35:27 --> Attempting to login with NIP: admin and Name: Administrator
+INFO - 2024-11-27 14:35:27 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => Administrator
+            [role] => super_admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6IkFkbWluaXN0cmF0b3IiLCJyb2xlIjoic3VwZXJfYWRtaW4iLCJpYXQiOjE3MzI3MTgxMjcsImV4cCI6MTczMjcyMTcyN30.ki8alFW1YEXdHOEB61JdJ5PU7-qeK9xj4GwOAFelzi0
+        )
+
+)
+
+INFO - 2024-11-27 14:35:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 14:35:27 --> User logged in: admin
+INFO - 2024-11-27 14:35:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 14:36:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 14:36:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 15:37:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-27 15:37:00 --> ErrorException: Undefined array key "role"
+[Method: GET, Route: surat]
+in APPPATH\Views\TemplateDashboard\sidebar.php on line 67.
+ 1 APPPATH\Views\TemplateDashboard\sidebar.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "role"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\TemplateDashboard\\sidebar.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\TemplateDashboard\\sidebar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('TemplateDashboard/sidebar', [], true)
+ 5 APPPATH\Controllers\SuratController.php(31): view('TemplateDashboard/sidebar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\SuratController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-27 15:44:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-27 15:44:52 --> ErrorException: Undefined array key "role"
+[Method: GET, Route: surat]
+in APPPATH\Views\TemplateDashboard\sidebar.php on line 67.
+ 1 APPPATH\Views\TemplateDashboard\sidebar.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "role"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\TemplateDashboard\\sidebar.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\TemplateDashboard\\sidebar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('TemplateDashboard/sidebar', [], true)
+ 5 APPPATH\Controllers\SuratController.php(31): view('TemplateDashboard/sidebar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\SuratController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SuratController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-27 15:50:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-27 15:50:34 --> ErrorException: Undefined array key "role"
+[Method: GET, Route: dashboard]
+in APPPATH\Views\TemplateDashboard\sidebar.php on line 67.
+ 1 APPPATH\Views\TemplateDashboard\sidebar.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "role"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\TemplateDashboard\\sidebar.php', 67)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\TemplateDashboard\\sidebar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Templatedashboard/sidebar', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(37): view('Templatedashboard/sidebar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-27 15:50:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 15:50:46 --> Attempting to login with NIP: admin and Name: Administrator
+INFO - 2024-11-27 15:50:46 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => Administrator
+            [role] => super_admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6IkFkbWluaXN0cmF0b3IiLCJyb2xlIjoic3VwZXJfYWRtaW4iLCJpYXQiOjE3MzI3MjI2NDYsImV4cCI6MTczMjcyNjI0Nn0.T0NftImdRreXPC74Sm58Q-pdZ8KimN9i7uZfnC04vbo
+        )
+
+)
+
+INFO - 2024-11-27 15:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 15:50:46 --> User logged in: admin
+INFO - 2024-11-27 15:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 15:50:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 15:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 15:53:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 15:55:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 15:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 15:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 15:56:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 15:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 15:57:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:03:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:04:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:04:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:06:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:06:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:06:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:07:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:08:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:08:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:09:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:10:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:17:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:18:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:18:03 --> Attempting to login with NIP: admin and Name: Administrator
+INFO - 2024-11-27 16:18:03 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => Administrator
+            [role] => super_admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6IkFkbWluaXN0cmF0b3IiLCJyb2xlIjoic3VwZXJfYWRtaW4iLCJpYXQiOjE3MzI3MjQyODMsImV4cCI6MTczMjcyNzg4M30.MJBwaTPXSnM1X8imHYvhWHLlLawFHJaKOih0kqVtd-A
+        )
+
+)
+
+INFO - 2024-11-27 16:18:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:18:03 --> User logged in: admin
+INFO - 2024-11-27 16:18:03 --> Attempting to login with NIP: admin and Name: Administrator
+ERROR - 2024-11-27 16:18:03 --> HTTP error: 22 : The requested URL returned error: 403
+INFO - 2024-11-27 16:18:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:18:10 --> Attempting to login with NIP: admin and Name: Administrator
+ERROR - 2024-11-27 16:18:10 --> HTTP error: 22 : The requested URL returned error: 403
+INFO - 2024-11-27 16:18:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:18:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:18:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:18:31 --> Attempting to login with NIP: admin and Name: Administrator
+INFO - 2024-11-27 16:18:31 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => Administrator
+            [role] => super_admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6IkFkbWluaXN0cmF0b3IiLCJyb2xlIjoic3VwZXJfYWRtaW4iLCJpYXQiOjE3MzI3MjQzMTEsImV4cCI6MTczMjcyNzkxMX0.mdsQwO1COTT6-9cBQNgpCwu_p7-THw4_7Y5Dzf95TGU
+        )
+
+)
+
+INFO - 2024-11-27 16:18:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:18:31 --> User logged in: admin
+INFO - 2024-11-27 16:18:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:18:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:18:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:19:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:21:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:23:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:23:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:23:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:23:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:23:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:23:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:23:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:23:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:24:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:24:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:24:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:25:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:35:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:57:16 --> Attempting to login with NIP: admin and Name: Administrator
+INFO - 2024-11-27 16:57:16 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => Administrator
+            [role] => super_admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6IkFkbWluaXN0cmF0b3IiLCJyb2xlIjoic3VwZXJfYWRtaW4iLCJpYXQiOjE3MzI3MjY2MzYsImV4cCI6MTczMjczMDIzNn0.bu87HgIg50vDNfoVDJ3KxM3RcIBqBbIhp_sGzTeDwJU
+        )
+
+)
+
+INFO - 2024-11-27 16:57:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:57:16 --> User logged in: admin
+INFO - 2024-11-27 16:57:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:57:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:57:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 16:57:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 17:07:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 17:07:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 17:07:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 17:07:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 17:07:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 17:07:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 17:07:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 17:09:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 17:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 17:09:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 17:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 17:10:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 17:10:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 17:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 17:19:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 17:20:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 17:21:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 18:18:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 18:28:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 18:28:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 18:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 18:30:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 19:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 19:35:14 --> Attempting to login with NIP: admin and Name: Administrator
+INFO - 2024-11-27 19:35:14 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => Administrator
+            [role] => super_admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6IkFkbWluaXN0cmF0b3IiLCJyb2xlIjoic3VwZXJfYWRtaW4iLCJpYXQiOjE3MzI3MzYxMTQsImV4cCI6MTczMjczOTcxNH0.x5QHBREDhUUzP6Oa9UInH0ZrvRvU1mVzIGjDRKR-ApQ
+        )
+
+)
+
+INFO - 2024-11-27 19:35:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 19:35:14 --> User logged in: admin
+INFO - 2024-11-27 19:35:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 19:35:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 19:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 19:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 19:36:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 19:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 19:37:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-27 19:37:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

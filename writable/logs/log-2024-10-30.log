@@ -1,0 +1,711 @@
+INFO - 2024-10-30 05:38:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 05:38:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 05:38:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 05:38:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 05:38:49 --> Attempting to login with NIP: admin and Name: Administrator
+INFO - 2024-10-30 05:38:49 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => Administrator
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6IkFkbWluaXN0cmF0b3IiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3MzAyNjY3MjksImV4cCI6MTczMDI3MDMyOX0.qj3Mo5YKs70tI2B8RZ0guAKE-a1LSwvKTKl_d5jYdlg
+        )
+
+)
+
+INFO - 2024-10-30 05:38:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 05:38:49 --> User logged in: admin
+INFO - 2024-10-30 05:38:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 05:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 05:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 05:42:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 05:58:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 05:59:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 05:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 06:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 06:00:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:00:07 --> BadMethodCallException: Call to undefined method App\Models\KaryawanModel::getEnumValues
+[Method: GET, Route: karyawan]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Karyawan.php(25): CodeIgniter\Model->__call('getEnumValues', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:00:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 06:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 06:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:00:33 --> BadMethodCallException: Call to undefined method App\Models\KaryawanModel::getEnumValues
+[Method: GET, Route: karyawan]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Karyawan.php(25): CodeIgniter\Model->__call('getEnumValues', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:03:21 --> BadMethodCallException: Call to undefined method App\Models\KaryawanModel::getEnumValues
+[Method: GET, Route: karyawan]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Karyawan.php(25): CodeIgniter\Model->__call('getEnumValues', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:03:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 06:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:03:29 --> BadMethodCallException: Call to undefined method App\Models\KaryawanModel::getEnumValues
+[Method: GET, Route: karyawan]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Karyawan.php(25): CodeIgniter\Model->__call('getEnumValues', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:03:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 06:03:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:03:36 --> BadMethodCallException: Call to undefined method App\Models\KaryawanModel::getEnumValues
+[Method: GET, Route: karyawan]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Karyawan.php(25): CodeIgniter\Model->__call('getEnumValues', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:03:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:03:45 --> BadMethodCallException: Call to undefined method App\Models\KaryawanModel::getEnumValues
+[Method: GET, Route: karyawan]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Karyawan.php(25): CodeIgniter\Model->__call('getEnumValues', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:04:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:04:36 --> BadMethodCallException: Call to undefined method App\Models\KaryawanModel::getEnumValues
+[Method: GET, Route: karyawan]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Karyawan.php(25): CodeIgniter\Model->__call('getEnumValues', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:44:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:44:05 --> BadMethodCallException: Call to undefined method App\Models\KaryawanModel::getEnumValues
+[Method: GET, Route: karyawan]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Karyawan.php(25): CodeIgniter\Model->__call('getEnumValues', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:44:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:44:05 --> BadMethodCallException: Call to undefined method App\Models\KaryawanModel::getEnumValues
+[Method: GET, Route: karyawan]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Karyawan.php(25): CodeIgniter\Model->__call('getEnumValues', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:44:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 06:44:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 06:44:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:44:18 --> BadMethodCallException: Call to undefined method App\Models\KaryawanModel::getEnumValues
+[Method: GET, Route: karyawan]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Karyawan.php(25): CodeIgniter\Model->__call('getEnumValues', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:49:44 --> ErrorException: Undefined array key 1
+[Method: GET, Route: karyawan]
+in APPPATH\Models\KaryawanModel.php on line 48.
+ 1 APPPATH\Models\KaryawanModel.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'C:\\laragon\\www\\HRProgress\\app\\Models\\KaryawanModel.php', 48)
+ 2 APPPATH\Controllers\Karyawan.php(26): App\Models\KaryawanModel->getEnumValues('data_karyawan', 'golongan_terakhir')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:49:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 06:49:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 06:49:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 06:49:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:49:56 --> ErrorException: Undefined array key 1
+[Method: GET, Route: karyawan]
+in APPPATH\Models\KaryawanModel.php on line 48.
+ 1 APPPATH\Models\KaryawanModel.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'C:\\laragon\\www\\HRProgress\\app\\Models\\KaryawanModel.php', 48)
+ 2 APPPATH\Controllers\Karyawan.php(26): App\Models\KaryawanModel->getEnumValues('data_karyawan', 'golongan_terakhir')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:52:41 --> TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 143.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(143): htmlspecialchars([...])
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:52:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:52:42 --> TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 143.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(143): htmlspecialchars([...])
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:52:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:52:43 --> TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 143.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(143): htmlspecialchars([...])
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:52:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:52:43 --> TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 143.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(143): htmlspecialchars([...])
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:52:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:52:43 --> TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 143.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(143): htmlspecialchars([...])
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:52:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:52:45 --> TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 143.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(143): htmlspecialchars([...])
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:52:46 --> TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 143.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(143): htmlspecialchars([...])
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:52:46 --> TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 143.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(143): htmlspecialchars([...])
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:52:46 --> TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 143.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(143): htmlspecialchars([...])
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:52:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:52:47 --> TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 143.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(143): htmlspecialchars([...])
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:55:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:55:01 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 144.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(144): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 144)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:55:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:55:02 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 144.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(144): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 144)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:55:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:55:31 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 144.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(144): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 144)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:55:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:55:31 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:55:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:55:32 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:55:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:55:33 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:56:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:56:34 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:56:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:56:35 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:56:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:56:36 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:56:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:56:36 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:56:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:56:36 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:56:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:56:37 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:56:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:56:37 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:56:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:56:37 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:56:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:56:38 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:56:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:56:38 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:56:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:56:38 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:56:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:56:39 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:56:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:56:39 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:56:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:56:39 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:56:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 06:56:55 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: karyawan]
+in APPPATH\Views\dashboard\data_pegawai.php on line 159.
+ 1 APPPATH\Views\dashboard\data_pegawai.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php', 159)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\dashboard\\data_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/data_pegawai', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(38): view('dashboard/data_pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 06:56:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 06:56:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 06:56:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 06:56:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 06:56:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-30 07:03:24 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ass)ets"
+[Method: GET, Route: ass%29ets/master/vendors/images/ptptk1.png]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ass)ets/master/vendors/images/ptptk1.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ass)ets/master/vendors/images/ptptk1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-10-30 07:03:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 07:03:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 07:03:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 07:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 07:04:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 07:04:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 07:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 07:04:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 07:04:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 07:04:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 07:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 07:04:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 07:04:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 07:04:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 07:04:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

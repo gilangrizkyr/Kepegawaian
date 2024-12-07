@@ -1,0 +1,885 @@
+INFO - 2024-11-01 01:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:39:06 --> Attempting to login with NIP: asas and Name: asas
+ERROR - 2024-11-01 01:39:09 --> HTTP error: 7 : Failed to connect to localhost port 3000 after 2419 ms: Couldn't connect to server
+INFO - 2024-11-01 01:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:39:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:40:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:40:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:40:11 --> Attempting to login with NIP: admin and Name: Administrator
+ERROR - 2024-11-01 01:40:13 --> HTTP error: 7 : Failed to connect to localhost port 3000 after 2227 ms: Couldn't connect to server
+INFO - 2024-11-01 01:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:40:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:40:30 --> Attempting to login with NIP: admin and Name: Administrator
+ERROR - 2024-11-01 01:40:32 --> HTTP error: 7 : Failed to connect to localhost port 3000 after 2227 ms: Couldn't connect to server
+INFO - 2024-11-01 01:40:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:40:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:40:41 --> Attempting to login with NIP: admin and Name: Administrator
+INFO - 2024-11-01 01:40:41 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => Administrator
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6IkFkbWluaXN0cmF0b3IiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3MzA0MjUyNDEsImV4cCI6MTczMDQyODg0MX0.lrNmZ9-jUVEHisz060kbbGIPnZ0dNLM5yCzZNOfsqFs
+        )
+
+)
+
+INFO - 2024-11-01 01:40:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:40:41 --> User logged in: admin
+INFO - 2024-11-01 01:40:42 --> Attempting to login with NIP: admin and Name: Administrator
+ERROR - 2024-11-01 01:40:42 --> HTTP error: 22 : The requested URL returned error: 403
+INFO - 2024-11-01 01:40:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:40:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:40:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:40:54 --> Attempting to login with NIP: admin and Name: Administrator
+ERROR - 2024-11-01 01:40:54 --> HTTP error: 22 : The requested URL returned error: 403
+INFO - 2024-11-01 01:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:41:08 --> Attempting to login with NIP: admin and Name: Administrator
+ERROR - 2024-11-01 01:41:08 --> HTTP error: 22 : The requested URL returned error: 403
+INFO - 2024-11-01 01:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:41:20 --> Attempting to login with NIP: admin and Name: Administrator
+ERROR - 2024-11-01 01:41:20 --> HTTP error: 22 : The requested URL returned error: 403
+INFO - 2024-11-01 01:41:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:41:35 --> Attempting to login with NIP: admin and Name: Administrator
+ERROR - 2024-11-01 01:41:35 --> HTTP error: 22 : The requested URL returned error: 403
+INFO - 2024-11-01 01:41:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:42:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:42:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:42:09 --> Attempting to login with NIP: admin and Name: Administrator
+INFO - 2024-11-01 01:42:09 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => Administrator
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6IkFkbWluaXN0cmF0b3IiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3MzA0MjUzMjksImV4cCI6MTczMDQyODkyOX0.N0BMgpRhjtAOkhUwYyMVTBd2u7D3GnzEKt4Nwm6DEH8
+        )
+
+)
+
+INFO - 2024-11-01 01:42:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:42:09 --> User logged in: admin
+INFO - 2024-11-01 01:42:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:42:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:42:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:42:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 01:42:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 02:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 05:48:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 05:48:53 --> Attempting to login with NIP: admin and Name: Administrator
+INFO - 2024-11-01 05:48:53 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => Administrator
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6IkFkbWluaXN0cmF0b3IiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3MzA0NDAxMzMsImV4cCI6MTczMDQ0MzczM30.UoEXR4Z5oGfntpVDPLYHyZ00C1BVIISCIlPmrRFvAQc
+        )
+
+)
+
+INFO - 2024-11-01 05:48:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 05:48:53 --> User logged in: admin
+INFO - 2024-11-01 05:48:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-11-01 05:49:04 --> mysqli_sql_exception: Illegal parameter data types varchar and row for operation '=' in C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\HRProgress\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\HRProgress\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\HRProgress\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\HRProgress\app\Models\StrukturalModel.php(16): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\HRProgress\app\Controllers\Struktural.php(62): App\Models\StrukturalModel->getAllData('golongan')
+#8 C:\laragon\www\HRProgress\system\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+#9 C:\laragon\www\HRProgress\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+#10 C:\laragon\www\HRProgress\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\HRProgress\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\HRProgress\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\HRProgress\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\HRProgress\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+CRITICAL - 2024-11-01 05:49:04 --> CodeIgniter\Database\Exceptions\DatabaseException: Illegal parameter data types varchar and row for operation '='
+[Method: GET, Route: struktural/golongan]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `struktural`
+WHERE `golongan` = :golongan:', [...], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\StrukturalModel.php(16): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Struktural.php(62): App\Models\StrukturalModel->getAllData('golongan')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-11-01 05:49:04 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Illegal parameter data types varchar and row for operation '='
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `struktural`
+WHERE `golongan` = (\'jabatan\',\'golongan\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `struktural`
+WHERE `golongan` = (\'jabatan\',\'golongan\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `struktural`
+WHERE `golongan` = :golongan:', [...], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\StrukturalModel.php(16): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Struktural.php(62): App\Models\StrukturalModel->getAllData('golongan')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-11-01 05:49:04 --> [Caused by] mysqli_sql_exception: Illegal parameter data types varchar and row for operation '='
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `struktural`
+WHERE `golongan` = (\'jabatan\',\'golongan\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `struktural`
+WHERE `golongan` = (\'jabatan\',\'golongan\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `struktural`
+WHERE `golongan` = (\'jabatan\',\'golongan\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `struktural`
+WHERE `golongan` = :golongan:', [...], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\StrukturalModel.php(16): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Struktural.php(62): App\Models\StrukturalModel->getAllData('golongan')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 05:49:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-11-01 05:49:11 --> mysqli_sql_exception: Illegal parameter data types varchar and row for operation '=' in C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\HRProgress\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\HRProgress\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\HRProgress\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\HRProgress\app\Models\StrukturalModel.php(16): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\HRProgress\app\Controllers\Struktural.php(20): App\Models\StrukturalModel->getAllData('jabatan')
+#8 C:\laragon\www\HRProgress\system\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+#9 C:\laragon\www\HRProgress\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+#10 C:\laragon\www\HRProgress\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\HRProgress\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\HRProgress\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\HRProgress\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\HRProgress\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+CRITICAL - 2024-11-01 05:49:11 --> CodeIgniter\Database\Exceptions\DatabaseException: Illegal parameter data types varchar and row for operation '='
+[Method: GET, Route: struktural/jabatan]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `struktural`
+WHERE `jabatan` = :jabatan:', [...], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\StrukturalModel.php(16): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Struktural.php(20): App\Models\StrukturalModel->getAllData('jabatan')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-11-01 05:49:11 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Illegal parameter data types varchar and row for operation '='
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `struktural`
+WHERE `jabatan` = (\'jabatan\',\'golongan\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `struktural`
+WHERE `jabatan` = (\'jabatan\',\'golongan\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `struktural`
+WHERE `jabatan` = :jabatan:', [...], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\StrukturalModel.php(16): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Struktural.php(20): App\Models\StrukturalModel->getAllData('jabatan')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-11-01 05:49:11 --> [Caused by] mysqli_sql_exception: Illegal parameter data types varchar and row for operation '='
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `struktural`
+WHERE `jabatan` = (\'jabatan\',\'golongan\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `struktural`
+WHERE `jabatan` = (\'jabatan\',\'golongan\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `struktural`
+WHERE `jabatan` = (\'jabatan\',\'golongan\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `struktural`
+WHERE `jabatan` = :jabatan:', [...], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\StrukturalModel.php(16): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Struktural.php(20): App\Models\StrukturalModel->getAllData('jabatan')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+ERROR - 2024-11-01 05:51:44 --> mysqli_sql_exception: Illegal parameter data types varchar and row for operation '=' in C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\HRProgress\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\HRProgress\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\HRProgress\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\HRProgress\app\Models\StrukturalModel.php(16): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\HRProgress\app\Controllers\Struktural.php(20): App\Models\StrukturalModel->getAllData('jabatan')
+#8 C:\laragon\www\HRProgress\system\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+#9 C:\laragon\www\HRProgress\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+#10 C:\laragon\www\HRProgress\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\HRProgress\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\HRProgress\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\HRProgress\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\HRProgress\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+CRITICAL - 2024-11-01 05:51:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Illegal parameter data types varchar and row for operation '='
+[Method: GET, Route: struktural/jabatan]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `struktural`
+WHERE `jabatan` = :jabatan:', [...], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\StrukturalModel.php(16): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Struktural.php(20): App\Models\StrukturalModel->getAllData('jabatan')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-11-01 05:51:44 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Illegal parameter data types varchar and row for operation '='
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `struktural`
+WHERE `jabatan` = (\'jabatan\',\'golongan\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `struktural`
+WHERE `jabatan` = (\'jabatan\',\'golongan\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `struktural`
+WHERE `jabatan` = :jabatan:', [...], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\StrukturalModel.php(16): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Struktural.php(20): App\Models\StrukturalModel->getAllData('jabatan')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-11-01 05:51:44 --> [Caused by] mysqli_sql_exception: Illegal parameter data types varchar and row for operation '='
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `struktural`
+WHERE `jabatan` = (\'jabatan\',\'golongan\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `struktural`
+WHERE `jabatan` = (\'jabatan\',\'golongan\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `struktural`
+WHERE `jabatan` = (\'jabatan\',\'golongan\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `struktural`
+WHERE `jabatan` = :jabatan:', [...], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\StrukturalModel.php(16): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Struktural.php(20): App\Models\StrukturalModel->getAllData('jabatan')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+ERROR - 2024-11-01 05:51:45 --> mysqli_sql_exception: Illegal parameter data types varchar and row for operation '=' in C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\HRProgress\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\HRProgress\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\HRProgress\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\HRProgress\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\HRProgress\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\HRProgress\app\Models\StrukturalModel.php(16): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\HRProgress\app\Controllers\Struktural.php(20): App\Models\StrukturalModel->getAllData('jabatan')
+#8 C:\laragon\www\HRProgress\system\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+#9 C:\laragon\www\HRProgress\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+#10 C:\laragon\www\HRProgress\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\HRProgress\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\HRProgress\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\HRProgress\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\HRProgress\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+CRITICAL - 2024-11-01 05:51:45 --> CodeIgniter\Database\Exceptions\DatabaseException: Illegal parameter data types varchar and row for operation '='
+[Method: GET, Route: struktural/jabatan]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `struktural`
+WHERE `jabatan` = :jabatan:', [...], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\StrukturalModel.php(16): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Struktural.php(20): App\Models\StrukturalModel->getAllData('jabatan')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-11-01 05:51:45 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Illegal parameter data types varchar and row for operation '='
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `struktural`
+WHERE `jabatan` = (\'jabatan\',\'golongan\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `struktural`
+WHERE `jabatan` = (\'jabatan\',\'golongan\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `struktural`
+WHERE `jabatan` = :jabatan:', [...], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\StrukturalModel.php(16): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Struktural.php(20): App\Models\StrukturalModel->getAllData('jabatan')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+CRITICAL - 2024-11-01 05:51:45 --> [Caused by] mysqli_sql_exception: Illegal parameter data types varchar and row for operation '='
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `struktural`
+WHERE `jabatan` = (\'jabatan\',\'golongan\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `struktural`
+WHERE `jabatan` = (\'jabatan\',\'golongan\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `struktural`
+WHERE `jabatan` = (\'jabatan\',\'golongan\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `struktural`
+WHERE `jabatan` = :jabatan:', [...], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\StrukturalModel.php(16): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Struktural.php(20): App\Models\StrukturalModel->getAllData('jabatan')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:00:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:00:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:00:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:00:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:00:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:00:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:00:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:04:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:04:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:04:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:04:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:05:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:05:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:05:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:05:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:05:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:05:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:05:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:06:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:06:09 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\jabatan.php on line 25.
+ 1 APPPATH\Views\struktural\jabatan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\jabatan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/jabatan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(22): view('struktural/jabatan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:06:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:06:12 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\jabatan.php on line 25.
+ 1 APPPATH\Views\struktural\jabatan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\jabatan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/jabatan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(22): view('struktural/jabatan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:06:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:06:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:06:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:06:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:06:53 --> Attempting to login with NIP: admin and Name: Administrator
+INFO - 2024-11-01 06:06:53 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => Administrator
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6IkFkbWluaXN0cmF0b3IiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3MzA0NDEyMTMsImV4cCI6MTczMDQ0NDgxM30.zvv_6xmY2Pe2eSP_X7KZG1f8hoJB88j35E7wx1g7o7g
+        )
+
+)
+
+INFO - 2024-11-01 06:06:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:06:53 --> User logged in: admin
+INFO - 2024-11-01 06:06:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:07:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:07:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:07:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:08:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:11:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:11:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:11:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:11:30 --> Attempting to login with NIP: admin and Name: Administrator
+INFO - 2024-11-01 06:11:31 --> Response Data: Array
+(
+    [status] => success
+    [message] => Login berhasil
+    [data] => Array
+        (
+            [id] => 7
+            [name] => Administrator
+            [role] => admin
+            [token] => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywibmFtZSI6IkFkbWluaXN0cmF0b3IiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3MzA0NDE0OTEsImV4cCI6MTczMDQ0NTA5MX0.8T2ffhCZzLaXHyPnRydRBzfPGsyKaSdxOrdMVx1bEdY
+        )
+
+)
+
+INFO - 2024-11-01 06:11:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:11:31 --> User logged in: admin
+INFO - 2024-11-01 06:11:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:12:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:12:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:14:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:14:36 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(68): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:14:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:14:43 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(68): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:14:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:14:48 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\jabatan.php on line 25.
+ 1 APPPATH\Views\struktural\jabatan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\jabatan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/jabatan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(22): view('struktural/jabatan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:14:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:14:51 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(68): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:15:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:15:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:15:05 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\jabatan.php on line 25.
+ 1 APPPATH\Views\struktural\jabatan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\jabatan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/jabatan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(22): view('struktural/jabatan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:15:09 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\jabatan.php on line 25.
+ 1 APPPATH\Views\struktural\jabatan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\jabatan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/jabatan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(22): view('struktural/jabatan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:15:42 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(68): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:15:48 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(68): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:18:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:18:15 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(69): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:18:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:18:16 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(69): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:18:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:18:16 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(69): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:18:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:18:17 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(69): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:18:21 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\jabatan.php on line 25.
+ 1 APPPATH\Views\struktural\jabatan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\jabatan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/jabatan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(22): view('struktural/jabatan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:18:35 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\jabatan.php on line 25.
+ 1 APPPATH\Views\struktural\jabatan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\jabatan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/jabatan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(22): view('struktural/jabatan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:22:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:22:28 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\jabatan.php on line 25.
+ 1 APPPATH\Views\struktural\jabatan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\jabatan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/jabatan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(22): view('struktural/jabatan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->jabatan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:22:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:23:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:33:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:33:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-01 06:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:33:37 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(69): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+WARNING - 2024-11-01 06:33:37 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(69): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+WARNING - 2024-11-01 06:33:37 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(69): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:33:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:33:43 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(69): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+WARNING - 2024-11-01 06:33:43 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(69): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+WARNING - 2024-11-01 06:33:43 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(69): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+INFO - 2024-11-01 06:33:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-01 06:33:53 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(69): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+WARNING - 2024-11-01 06:33:53 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(69): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
+WARNING - 2024-11-01 06:33:53 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\struktural\golongan.php on line 25.
+ 1 APPPATH\Views\struktural\golongan.php(25): htmlspecialchars(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\HRProgress\\app\\Views\\struktural\\golongan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('struktural/golongan', [], true)
+ 5 APPPATH\Controllers\Struktural.php(69): view('struktural/golongan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Struktural->golongan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Struktural))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\HRProgress\\public\\index.php')
